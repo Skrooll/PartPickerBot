@@ -1,0 +1,191 @@
+Id,Name,Socket,Core,Thread,Frequency,Frequency_bost,Cahe,Price,Recommended,Link
+1,AMD Ryzen 5 2600,SocketAM4,6,12,3.4,3.9,16,10 990,50,https://www.citilink.ru/product/processor-amd-ryzen-5-2600-socketam4-oem-yd2600bbm6iaf-1068556/
+2,AMD Ryzen 5 3600,SocketAM4,6,12,3.6,4.2,32,14 390,50,https://www.citilink.ru/product/processor-amd-ryzen-5-3600-socketam4-oem-100-000000031-1151445/
+3,INTEL Core i5 10400F,LGA 1200,6,12,2.9,4.3,12,16 590,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10400f-soc-1200-cm8070104290716s-rh3d-1363358/
+4,AMD Ryzen 3 3100,SocketAM4,4,8,3.6,3.9,16,10 290,0,https://www.citilink.ru/product/processor-amd-ryzen-3-3100-am4-100-000000284-3-6ghz-oem-1401509/
+5,AMD Ryzen 5 3500X,SocketAM4,6,6,3.6,4.1,32,11 590,0,https://www.citilink.ru/product/processor-amd-ryzen-5-3500x-am4-100-000000158-3-6ghz-oem-1411785/
+6,INTEL Core i3 10100F,LGA 1200,4,8,3.6,4.3,6,12 290,0,https://www.citilink.ru/product/processor-intel-core-i3-10100f-lga-1200-oem-cm8070104291318q-usm-1426814/
+7,INTEL Core i5 9400F,LGA 1151v2,6,6,2.9,4.1,9,,0,https://www.citilink.ru/product/processor-intel-core-i5-9400f-lga-1151v2-oem-cm8068403358819s-rf6m-1118668/
+8,AMD Ryzen 5 2600,SocketAM4,6,12,3.4,3.9,16,11 490,0,https://www.citilink.ru/product/processor-amd-ryzen-5-2600-socketam4-box-yd2600bbafbox-1051835/
+9,INTEL Core i5 9400F,LGA 1151v2,6,6,2.9,4.1,9,,0,https://www.citilink.ru/product/processor-intel-core-i5-9400f-lga-1151v2-box-bx80684i59400f-s-rf6m-1118667/
+10,INTEL Core i3 10100F,LGA 1200,4,8,3.6,4.3,6,12 990,0,https://www.citilink.ru/product/processor-intel-original-core-i3-10100f-soc-1200-bx8070110100f-s-rh8u-1419362/
+11,INTEL Core i5 10400F,LGA 1200,6,12,2.9,4.3,12,16 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10400f-soc-1200-bx8070110400f-s-rh3d-1369041/
+12,INTEL Core i3 10100,LGA 1200,4,8,3.6,4.3,6,14 790,0,https://www.citilink.ru/product/processor-intel-original-core-i3-10100-soc-1200-bx8070110100-s-rh3n-3-1369035/
+13,AMD Ryzen 7 3700X,SocketAM4,8,16,3.6,4.4,32,23 990,0,https://www.citilink.ru/product/processor-amd-ryzen-7-3700x-socketam4-tray-100-000000071-1151455/
+14,INTEL Pentium Gold G5420,LGA 1151v2,2,4,3.8,,4,9990,0,https://www.citilink.ru/product/processor-intel-pentium-gold-g5420-lga-1151v2-box-bx80684g5420-s-r3xa-1139043/
+15,AMD Ryzen 5 3600X,SocketAM4,6,12,3.8,4.4,32,17 990,0,https://www.citilink.ru/product/processor-amd-ryzen-5-3600x-socketam4-tray-100-000000022-1151450/
+16,INTEL Core i5 10400,LGA 1200,6,12,2.9,4.3,12,18 290,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10400-soc-1200-cm8070104290715s-rh3c-1363357/
+17,AMD Ryzen 5 2600X,SocketAM4,6,12,3.6,4.2,16,12 190,0,https://www.citilink.ru/product/processor-amd-ryzen-5-2600x-socketam4-tray-yd260xbcm6iaf-1068340/
+18,AMD Ryzen 5 3600,SocketAM4,6,12,3.6,4.2,32,16 490,0,https://www.citilink.ru/product/processor-amd-ryzen-5-3600-socketam4-box-100-100000031box-1151443/
+19,INTEL Core i3 9100F,LGA 1151v2,4,4,3.6,4.2,6,11 990,0,https://www.citilink.ru/product/processor-intel-core-i3-9100f-lga-1151v2-oem-cm8068403358820s-rf6n-1197113/
+20,AMD Ryzen 3 2200G,SocketAM4,4,4,3.5,3.7,4,10 290,0,https://www.citilink.ru/product/processor-amd-ryzen-3-2200g-socketam4-box-yd2200c5fbbox-1029381/
+21,INTEL Pentium Gold G5420,LGA 1151v2,2,4,3.8,,4,9490,0,https://www.citilink.ru/product/processor-intel-pentium-gold-g5420-lga-1151v2-oem-cm8068403360113s-r3x-1139046/
+22,INTEL Pentium Gold G6400,LGA 1200,2,4,4,,4,9290,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6400-soc-1151v2-cm8070104291810s-rh3-1363344/
+23,INTEL Core i7 10700F,LGA 1200,8,16,2.9,4.8,16,24 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10700f-soc-1200-cm8070104282329s-rh70-1400728/
+24,INTEL Core i3 9100F,LGA 1151v2,4,4,3.6,4.2,6,12 790,0,https://www.citilink.ru/product/processor-intel-core-i3-9100f-lga-1151v2-box-bx80684i39100f-s-rf6n-1163682/
+25,INTEL Pentium Gold G6400,LGA 1200,2,4,4,,4,9590,0,https://www.citilink.ru/product/processor-intel-original-pentium-gold-g6400-soc-1200-bx80701g6400-s-rh-1369031/
+26,INTEL Core i5 10400,LGA 1200,6,12,2.9,4.3,12,18 590,0,https://www.citilink.ru/product/processor-intel-core-i5-10400-lga-1200-box-bx8070110400-s-rh78-1419365/
+27,INTEL Core i5 10400,LGA 1200,6,12,2.9,4.3,12,18 590,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10400-soc-1200-bx8070110400-s-rh3c-2-1369040/
+28,AMD Ryzen 5 3500,SocketAM4,6,6,3.6,4.1,16,11 290,0,https://www.citilink.ru/product/processor-amd-ryzen-5-3500-socketam4-oem-100-000000050-1182289/
+29,INTEL Core i3 10100,LGA 1200,4,8,3.6,4.3,6,14 290,0,https://www.citilink.ru/product/processor-intel-core-i3-10100-soc-1200-3-6ghz-iuhdg630-oem-1406471/
+30,INTEL Core i5 9600KF,LGA 1151v2,6,6,3.7,4.6,9,15 890,0,https://www.citilink.ru/product/processor-intel-core-i5-9600kf-lga-1151v2-oem-cm8068403874410s-rg12-1155741/
+31,AMD Ryzen 5 1600,SocketAM4,6,12,3.2,3.6,16,11 190,0,https://www.citilink.ru/product/processor-amd-ryzen-5-1600-socketam4-box-yd1600bbafbox-1187402/
+32,INTEL Core i5 9400,LGA 1151v2,6,6,2.9,4.1,9,18 990,0,https://www.citilink.ru/product/processor-intel-core-i5-9400-lga-1151v2-oem-cm8068403875505s-rg0y-1181768/
+33,AMD Ryzen 7 3700X,SocketAM4,8,16,3.6,4.4,32,28 790,0,https://www.citilink.ru/product/processor-amd-ryzen-7-3700x-socketam4-box-100-100000071box-1151453/
+34,AMD Ryzen 5 2600X,SocketAM4,6,12,3.6,4.2,16,13 490,0,https://www.citilink.ru/product/processor-amd-ryzen-5-2600x-socketam4-box-yd260xbcafbox-1051839/
+35,AMD Ryzen 9 3900X,SocketAM4,12,24,3.8,4.6,64,44 590,0,https://www.citilink.ru/product/processor-amd-ryzen-9-3900x-socketam4-box-100-100000023box-1151471/
+36,INTEL Core i5 10400F,LGA 1200,6,12,2.9,4.3,12,16 590,0,https://www.citilink.ru/product/processor-intel-core-i5-10400f-lga-1200-oem-cm8070104282719s-rh79-1424064/
+37,INTEL Core i3 9100F,LGA 1151v2,4,4,3.6,4.2,6,12 790,0,https://www.citilink.ru/product/processor-intel-core-i3-9100f-lga-1151v2-box-1201242/
+38,INTEL Core i5 9400,LGA 1151v2,6,6,2.9,4.1,9,19 790,0,https://www.citilink.ru/product/processor-intel-core-i5-9400-lga-1151v2-box-bx80684i59400-s-r3x5-1193132/
+39,INTEL Pentium Gold G5420,LGA 1151v2,2,4,3.8,,4,9490,0,https://www.citilink.ru/product/processor-intel-pentium-gold-g5420-soc-1151v2-3-8ghz-iuhdg610-oem-1385423/
+40,AMD Ryzen 5 5600X,SocketAM4,6,12,3.7,4.6,32,24 090,0,https://www.citilink.ru/product/processor-amd-ryzen-5-5600x-socketam4-tray-100-100000065-1431187/
+41,AMD Ryzen 5 3600X,SocketAM4,6,12,3.8,4.4,32,21 590,0,https://www.citilink.ru/product/processor-amd-ryzen-5-3600x-socketam4-box-100-100000022box-1151447/
+42,INTEL Core i3 9100,LGA 1151v2,4,4,3.6,4.2,6,16 790,0,https://www.citilink.ru/product/processor-intel-core-i3-9100-lga-1151v2-box-1424731/
+43,INTEL Celeron G5905,LGA 1200,2,2,3.5,,4,7890,0,https://www.citilink.ru/product/processor-intel-original-celeron-g5905-soc-1200-bx80701g5905-s-rk27-3-1408761/
+44,INTEL Core i3 10100,LGA 1200,4,8,3.6,4.3,6,14 290,0,https://www.citilink.ru/product/processor-intel-original-core-i3-10100-soc-1200-cm8070104291317s-rh3n-1363354/
+45,AMD Ryzen 3 3200GE,SocketAM4,4,4,3.3,3.8,4,14 390,0,https://www.citilink.ru/product/processor-amd-ryzen-3-3200ge-am4-yd3200c6m4mfh-3-6ghz-vega-8-oem-1416730/
+46,INTEL Core i5 10600,LGA 1200,6,12,3.3,4.8,12,19 490,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600-soc-1200-cm8070104290312s-rh37-1402021/
+47,INTEL Core i7 10700F,LGA 1200,8,16,2.9,4.8,16,24 990,0,https://www.citilink.ru/product/processor-intel-core-i7-10700f-soc-1200-2-9ghz-oem-1411425/
+48,INTEL Core i5 10600KF,LGA 1200,6,12,4.1,4.8,12,17 390,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600kf-soc-1200-cm8070104282136s-rh6-1391892/
+49,INTEL Core i5 10500,LGA 1200,6,12,3.1,4.5,12,18 990,0,https://www.citilink.ru/product/processor-intel-core-i5-10500-soc-1200-3-1ghz-iuhdg630-oem-1408949/
+50,INTEL Core i5 10400F,LGA 1200,6,12,2.9,4.3,12,16 990,0,https://www.citilink.ru/product/processor-intel-core-i5-10400f-lga-1200-box-1424727/
+51,INTEL Core i5 9400,LGA 1151v2,6,6,2.9,4.1,9,19 790,0,https://www.citilink.ru/product/processor-intel-core-i5-9400-lga-1151v2-box-bx80684i59400-s-rg0y-1181766/
+52,INTEL Core i3 9100,LGA 1151v2,4,4,3.6,4.2,6,16 290,0,https://www.citilink.ru/product/processor-intel-core-i3-9100-lga-1151v2-oem-1163908/
+53,INTEL Celeron G4900,LGA 1151v2,2,2,3.1,,2,7990,0,https://www.citilink.ru/product/processor-intel-celeron-g4900-lga-1151v2-oem-1144348/
+54,AMD Ryzen 5 5600X,SocketAM4,6,12,3.7,4.6,32,28 990,0,https://www.citilink.ru/product/processor-amd-ryzen-5-5600x-socketam4-box-100-100000065box-1431184/
+55,INTEL Core i3 8100,LGA 1151v2,4,4,3.6,,6,14 990,0,https://www.citilink.ru/product/processor-intel-core-i3-8100-lga-1151v2-oem-1031618/
+56,AMD Ryzen 7 5800X,SocketAM4,8,16,3.8,4.7,32,41 590,0,https://www.citilink.ru/product/processor-amd-ryzen-7-5800x-socketam4-box-bez-kulera-100-100000063wof-1431178/
+57,INTEL Core i7 9700F,LGA 1151v2,8,8,3,4.7,12,22 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700f-lga-1151v2-oem-cm8068403874523s-rg14-1184757/
+58,INTEL Core i5 9600K,LGA 1151v2,6,6,3.7,4.6,9,17 490,0,https://www.citilink.ru/product/processor-intel-core-i5-9600k-lga-1151v2-oem-1111893/
+59,INTEL Core i5 10400,LGA 1200,6,12,2.9,4.3,12,18 290,0,https://www.citilink.ru/product/processor-intel-core-i5-10400-lga-1200-oem-cm8070104282718s-rh78-1431838/
+60,INTEL Core i5 10600K,LGA 1200,6,12,4.1,4.8,12,19 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600k-soc-1200-cm8070104282134s-rh6r-1393484/
+61,INTEL Core i7 10700F,LGA 1200,8,16,2.9,4.8,16,24 990,0,https://www.citilink.ru/product/processor-intel-core-i7-10700f-lga-1200-oem-cm8070104282329s-rh70-1474458/
+62,INTEL Core i5 10400F,LGA 1200,6,12,2.9,4.3,12,16 590,0,https://www.citilink.ru/product/processor-intel-core-i5-10400f-lga-1200-oem-1425707/
+63,INTEL Core i7 10700KF,LGA 1200,8,16,3.8,5.1,16,29 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700kf-soc-1200-bx8070110700kf-s-rh7-1369054/
+64,INTEL Core i7 9700K,LGA 1151v2,8,8,3.6,4.9,12,25 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700k-lga-1151v2-oem-cm8068403874215s-rg15-1199234/
+65,INTEL Core i7 10700KF,LGA 1200,8,16,3.8,5.1,16,28 990,0,https://www.citilink.ru/product/processor-intel-core-i7-10700kf-lga-1200-oem-cm8070104282437srh74-1428157/
+66,INTEL Core i7 10700KF,LGA 1200,8,16,3.8,5.1,16,28 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700kf-soc-1200-cm8070104282437srh74-1391887/
+67,AMD Ryzen 7 3800X,SocketAM4,8,16,3.9,4.5,32,33 490,0,https://www.citilink.ru/product/processor-amd-ryzen-7-3800x-socketam4-box-100-100000025box-1151461/
+68,INTEL Core i7 9700F,LGA 1151v2,8,8,3,4.7,12,22 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700f-soc-1151v2-3ghz-oem-1385424/
+69,AMD Ryzen 5 1600,SocketAM4,6,12,3.2,3.6,16,10 890,0,https://www.citilink.ru/product/processor-amd-ryzen-5-1600-socketam4-oem-yd1600bbm6iaf-1187404/
+70,INTEL Core i5 10600,LGA 1200,6,12,3.3,4.8,12,19 490,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600-soc-1200-cm8070104290312s-rh37-1363360/
+71,INTEL Core i9 10900,LGA 1200,10,20,2.8,5.2,20,36 590,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10900-soc-1200-cm8070104282624s-rh8z-1366137/
+72,INTEL Core i7 9700,LGA 1151v2,8,8,3,4.7,12,23 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700-lga-1151v2-oem-1196380/
+73,INTEL Core i5 9500F,LGA 1151v2,6,6,3,4.4,9,14 690,0,https://www.citilink.ru/product/processor-intel-core-i5-9500f-lga-1151v2-oem-cm8068403875414s-rg10-1194842/
+74,INTEL Core i5 10600KF,LGA 1200,6,12,4.1,4.8,12,17 390,0,https://www.citilink.ru/product/processor-intel-core-i5-10600kf-lga-1200-oem-cm8070104282136s-rh6s-1466348/
+75,INTEL Core i5 10400F,LGA 1200,6,12,2.9,4.3,12,16 990,0,https://www.citilink.ru/product/processor-intel-core-i5-10400f-lga-1200-box-bx8070110400f-s-rh79-1424729/
+76,INTEL Core i5 10400,LGA 1200,6,12,2.9,4.3,12,18 590,0,https://www.citilink.ru/product/processor-intel-core-i5-10400-lga-1200-box-1467566/
+77,INTEL Core i9 10850K,LGA 1200,10,20,3.6,5.2,20,35 990,0,https://www.citilink.ru/product/processor-intel-core-i9-10850k-lga-1200-oem-cm8070104608302-s-rk51-1416425/
+78,INTEL Core i5 11400,LGA 1200,6,12,2.6,4.4,12,18 190,0,https://www.citilink.ru/product/processor-intel-core-i5-11400-lga-1200-oem-cm8070804497015s-rkp0-1470859/
+79,AMD Ryzen 7 3800X,SocketAM4,8,16,3.9,4.5,32,31 990,0,https://www.citilink.ru/product/processor-amd-ryzen-7-3800x-socketam4-oem-100-000000025-1151467/
+80,INTEL Core i5 10600KF,LGA 1200,6,12,4.1,4.8,12,17 990,0,https://www.citilink.ru/product/processor-intel-core-i5-10600kf-lga-1200-box-bez-kulera-bx8070110600kf-1428229/
+81,INTEL Core i7 10700K,LGA 1200,8,16,3.8,5.1,16,30 390,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700k-soc-1200-cm8070104282436s-rh72-1366135/
+82,INTEL Core i5 10600K,LGA 1200,6,12,4.1,4.8,12,19 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600k-soc-1200-cm8070104282134s-rh6r-1366131/
+83,INTEL Core i9 10900F,LGA 1200,10,20,2.8,5.2,20,32 990,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10900f-soc-1151v2-cm8070104282625s-rh-1400732/
+84,INTEL Core i7 10700,LGA 1200,8,16,2.9,4.8,16,25 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700-soc-1200-cm8070104282327s-rh6y-1366134/
+85,INTEL Core i7 9700K,LGA 1151v2,8,8,3.6,4.9,12,26 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700k-lga-1151v2-box-bez-kulera-bx80684i79700k-1191826/
+86,INTEL Core i5 11500,LGA 1200,6,12,2.7,4.6,12,18 990,0,https://www.citilink.ru/product/processor-intel-core-i5-11500-lga-1200-oem-cm8070804496809s-rkny-1469358/
+87,AMD Ryzen 9 5950X,SocketAM4,16,32,3.4,4.9,64,94 990,0,https://www.citilink.ru/product/processor-amd-ryzen-9-5950x-socketam4-oem-100-100000059-1431157/
+88,INTEL Core i5 11500,LGA 1200,6,12,2.7,4.6,12,19 590,0,https://www.citilink.ru/product/processor-intel-core-i5-11500-lga-1200-box-bx8070811500-s-rkny-1469357/
+89,AMD Ryzen 5 3600XT,SocketAM4,6,12,3.8,4.5,32,21 290,0,https://www.citilink.ru/product/processor-amd-ryzen-5-3600xt-am4-100-100000281box-4-5ghz-box-1411790/
+90,INTEL Core i5 9500F,LGA 1151v2,6,6,3,4.4,9,14 690,0,https://www.citilink.ru/product/processor-intel-core-i5-9500f-lga-1151v2-oem-1196384/
+91,INTEL Core i5 11600K,LGA 1200,6,12,3.9,4.9,12,23 990,0,https://www.citilink.ru/product/processor-intel-core-i5-11600k-lga-1200-oem-cm8070804491414s-rknu-1469353/
+92,INTEL Core i5 9400,LGA 1151v2,6,6,2.9,4.1,9,18 990,0,https://www.citilink.ru/product/processor-intel-core-i5-9400-lga-1151v2-oem-1163911/
+93,INTEL Core i7 11700K,LGA 1200,8,16,3.6,5,16,37 990,0,https://www.citilink.ru/product/processor-intel-core-i7-11700k-lga-1200-box-bez-kulera-bx8070811700k-s-1469346/
+94,INTEL Core i7 9700,LGA 1151v2,8,8,3,4.7,12,23 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-9700-soc-1151v2-cm8068403874521s-rg13-1392953/
+95,INTEL Core i7 9700F,LGA 1151v2,8,8,3,4.7,12,23 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700f-lga-1151v2-box-bx80684i79700f-s-rg14-1184756/
+96,INTEL Core i7 9700,LGA 1151v2,8,8,3,4.7,12,24 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700-lga-1151v2-box-bx80684i79700-s-rg13-1185184/
+97,INTEL Core i5 10600KF,LGA 1200,6,12,4.1,4.8,12,17 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600kf-soc-1200-bx8070110600kf-s-rh6-1369047/
+98,INTEL Core i7 11700,LGA 1200,8,16,2.5,4.9,16,31 190,0,https://www.citilink.ru/product/processor-intel-core-i7-11700-lga-1200-box-bx8070811700-s-rkns-1469349/
+99,INTEL Core i7 11700,LGA 1200,8,16,2.5,4.9,16,30 590,0,https://www.citilink.ru/product/processor-intel-core-i7-11700-lga-1200-oem-cm8070804491214s-rkns-1469350/
+100,INTEL Core i7 9700KF,LGA 1151v2,8,8,3.6,4.9,12,24 690,0,https://www.citilink.ru/product/processor-intel-core-i7-9700kf-lga-1151v2-box-bez-kulera-bx80684i79700-1162941/
+101,INTEL Core i7 10700,LGA 1200,8,16,2.9,4.8,16,26 490,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700-soc-1200-bx8070110700-s-rh6y-2-1369048/
+102,INTEL Core i5 11400,LGA 1200,6,12,2.6,4.4,12,18 590,0,https://www.citilink.ru/product/processor-intel-core-i5-11400-lga-1200-box-bx8070811400-s-rkp0-1470855/
+103,INTEL Core i9 10900F,LGA 1200,10,20,2.8,5.2,20,33 990,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10900f-soc-1200-bx8070110900f-s-rh90-1369056/
+104,INTEL Core i5 9500,LGA 1151v2,6,6,3,4.4,9,18 990,0,https://www.citilink.ru/product/processor-intel-core-i5-9500-soc-1151v2-3ghz-iuhdg630-oem-1374252/
+105,INTEL Core i7 10700K,LGA 1200,8,16,3.8,5.1,16,30 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700k-soc-1200-bx8070110700k-s-rh72-1369051/
+106,INTEL Core i5 11600K,LGA 1200,6,12,3.9,4.9,12,24 790,0,https://www.citilink.ru/product/processor-intel-core-i5-11600k-lga-1200-box-bez-kulera-bx8070811600k-s-1469351/
+107,INTEL Core i9 10900K,LGA 1200,10,20,3.7,5.3,20,47 990,0,https://www.citilink.ru/product/processor-intel-core-i9-10900k-lga-1200-oem-cm8070104282844s-rh91-1456333/
+108,INTEL Core i9 10900F,LGA 1200,10,20,2.8,5.2,20,33 990,0,https://www.citilink.ru/product/processor-intel-core-i9-10900f-lga-1200-box-bx8070110900f-s-rh90-1454423/
+109,INTEL Core i5 10400,LGA 1200,6,12,2.9,4.3,12,18 290,0,https://www.citilink.ru/product/processor-intel-core-i5-10400-soc-1200-2-9ghz-iuhdg630-oem-1409480/
+110,INTEL Core i9 10900KF,LGA 1200,10,20,3.7,5.3,20,44 590,0,https://www.citilink.ru/product/processor-intel-core-i9-10900kf-lga-1200-box-bez-kulera-bx8070110900kf-1446374/
+111,INTEL Core i3 10105,LGA 1200,4,8,3.7,4.4,6,14 790,0,https://www.citilink.ru/product/processor-intel-original-core-i3-10105-soc-1200-bx8070110105-s-rh3p-3-1470844/
+112,INTEL Core i9 10900,LGA 1200,10,20,2.8,5.2,20,37 490,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10900-soc-1200-bx8070110900-s-rh8z-2-1369055/
+113,AMD Ryzen 9 5900X,SocketAM4,12,24,3.7,4.8,64,58 990,0,https://www.citilink.ru/product/processor-amd-ryzen-9-5900x-socketam4-box-bez-kulera-100-100000061wof-1431164/
+114,INTEL Core i7 11700K,LGA 1200,8,16,3.6,5,16,37 590,0,https://www.citilink.ru/product/processor-intel-core-i7-11700k-lga-1200-oem-cm8070804488629s-rknl-1469348/
+115,INTEL Core i3 10105F,LGA 1200,4,8,3.7,4.4,6,11 990,0,https://www.citilink.ru/product/processor-intel-original-core-i3-10105f-soc-1200-cm8070104291323s-rh8v-1470849/
+116,AMD Ryzen 3 4300GE,SocketAM4,4,8,3.5,4,4,14 590,0,https://www.citilink.ru/product/processor-amd-ryzen-3-4300ge-am4-100-000000151-3-5ghz-amd-radeon-oem-1512697/
+117,INTEL Core i9 11900K,LGA 1200,8,16,3.5,5.3,16,60 590,0,https://www.citilink.ru/product/processor-intel-core-i9-11900k-lga-1200-box-bez-kulera-bx8070811900k-s-1469339/
+118,INTEL Pentium Gold G6405,LGA 1200,2,4,4.1,,4,9990,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6405-soc-1200-bx80701g6405-s-rh3z-4-1470837/
+119,INTEL Core i9 10900KF,LGA 1200,10,20,3.7,5.3,20,43 590,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10900kf-soc-1151v2-cm8070104282846s-r-1400712/
+120,INTEL Core i7 9700K,LGA 1151v2,8,8,3.6,4.9,12,26 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700k-lga-1151v2-box-bez-kulera-1163493/
+121,AMD Ryzen 7 3800XT,SocketAM4,8,16,3.9,4.7,32,35 190,0,https://www.citilink.ru/product/processor-amd-ryzen-7-3800xt-am4-100-000000279-4-7ghz-oem-1411822/
+122,INTEL Core i3 10100,LGA 1200,4,8,3.6,4.3,6,14 790,0,https://www.citilink.ru/product/processor-intel-core-i3-10100-soc-1200-3-6ghz-iuhdg630-box-1496287/
+123,INTEL Core i5 9500,LGA 1151v2,6,6,3,4.4,9,18 990,0,https://www.citilink.ru/product/processor-intel-core-i5-9500-lga-1151v2-oem-cm8068403362610s-rf4b-1424579/
+124,INTEL Core i7 11700KF,LGA 1200,8,16,3.6,5,16,35 990,0,https://www.citilink.ru/product/processor-intel-core-i7-11700kf-lga-1200-oem-cm8070804488630s-rknn-1471343/
+125,INTEL Pentium Gold G6400,LGA 1200,2,4,4,,4,9590,0,https://www.citilink.ru/product/processor-intel-pentium-gold-g6400-soc-1200-4ghz-iuhdg610-box-1507541/
+126,INTEL Core i7 8700,LGA 1151v2,6,12,3.2,4.6,12,26 590,0,https://www.citilink.ru/product/processor-intel-core-i7-8700-lga-1151v2-oem-cm8068403358316s-r3qs-1029309/
+127,INTEL Core i5 11600,LGA 1200,6,12,2.8,4.8,12,21 790,0,https://www.citilink.ru/product/processor-intel-core-i5-11600-lga-1200-oem-cm8070804491513s-rknw-1469356/
+128,INTEL Celeron G5925,LGA 1200,2,2,3.6,,4,7590,0,https://www.citilink.ru/product/processor-intel-celeron-g5925-lga-1200-oem-cm8070104292013s-rk26-1424694/
+129,INTEL Core i7 10700K,LGA 1200,8,16,3.8,5.1,16,30 990,0,https://www.citilink.ru/product/processor-intel-core-i7-10700k-soc-1200-3-8ghz-iuhdg630-box-w-o-cooler-1499356/
+130,INTEL Core i9 11900K,LGA 1200,8,16,3.5,5.3,16,56 790,0,https://www.citilink.ru/product/processor-intel-core-i9-11900k-lga-1200-oem-cm8070804400161s-rknd-1469340/
+131,INTEL Core i7 11700K,LGA 1200,8,16,3.6,5,16,37 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-11700k-soc-1200-bx8070811700k-s-rknl-1492509/
+132,INTEL Core i5 9400,LGA 1151v2,6,6,2.9,4.1,9,19 790,0,https://www.citilink.ru/product/processor-intel-core-i5-9400-lga-1151v2-box-1182258/
+133,INTEL Core i7 11700F,LGA 1200,8,16,2.5,4.9,16,29 990,0,https://www.citilink.ru/product/processor-intel-core-i7-11700f-lga-1200-box-bx8070811700f-s-rknr-1471339/
+134,INTEL Pentium Gold G6405,LGA 1200,2,4,4.1,,4,9590,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6405-soc-1200-cm8070104291810s-rh3y-1470839/
+135,INTEL Core i9 10850K,LGA 1200,10,20,3.6,5.2,20,36 990,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10850k-soc-1200-bx8070110850k-s-rk51-1504677/
+136,INTEL Core i5 10600K,LGA 1200,6,12,4.1,4.8,12,20 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600k-soc-1200-bx8070110600k-s-rh6r-1412414/
+137,AMD Ryzen 9 5950X,SocketAM4,16,32,3.4,4.9,64,95 990,0,https://www.citilink.ru/product/processor-amd-ryzen-9-5950x-socketam4-box-bez-kulera-100-100000059wof-1431151/
+138,INTEL Core i5 9600K,LGA 1151v2,6,6,3.7,4.6,9,17 790,0,https://www.citilink.ru/product/processor-intel-core-i5-9600k-soc-1151v2-3-7ghz-iuhdg630-box-w-o-coole-1490103/
+139,INTEL Core i9 10900,LGA 1200,10,20,2.8,5.2,20,36 590,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10900-soc-1200-cm8070104282624s-rh8z-1490082/
+140,INTEL Pentium Gold G6600,LGA 1200,2,4,4.2,,4,9590,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6600-soc-1200-cm8070104291510s-rh3s-1363353/
+141,INTEL Core i7 11700KF,LGA 1200,8,16,3.6,5,16,36 990,0,https://www.citilink.ru/product/processor-intel-core-i7-11700kf-lga-1200-box-bez-kulera-bx8070811700kf-1471342/
+142,INTEL Core i9 11900,LGA 1200,8,16,2.5,5.2,16,40 690,0,https://www.citilink.ru/product/processor-intel-core-i9-11900-lga-1200-oem-cm8070804488245s-rknj-1469345/
+143,INTEL Core i3 9100F,LGA 1151v2,4,4,3.6,4.2,6,11 990,0,https://www.citilink.ru/product/processor-intel-core-i3-9100f-lga-1151v2-oem-1201481/
+144,INTEL Core i5 9400F,LGA 1151v2,6,6,2.9,4.1,9,15 290,0,https://www.citilink.ru/product/processor-intel-core-i5-9400f-soc-1151v2-2-9ghz-box-1507801/
+145,INTEL Core i5 10600K,LGA 1200,6,12,4.1,4.8,12,20 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600k-soc-1200-bx8070110600k-s-rh6r-1369046/
+146,INTEL Core i7 10700KF,LGA 1200,8,16,3.8,5.1,16,29 990,0,https://www.citilink.ru/product/processor-intel-core-i7-10700kf-lga-1200-box-bez-kulera-bx8070110700kf-1432412/
+147,INTEL Core i7 9700KF,LGA 1151v2,8,8,3.6,4.9,12,23 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700kf-lga-1151v2-oem-1196649/
+148,INTEL Core i9 11900,LGA 1200,8,16,2.5,5.2,16,41 990,0,https://www.citilink.ru/product/processor-intel-core-i9-11900-lga-1200-box-bx8070811900-s-rknj-1469344/
+149,AMD Ryzen 3 3200G,SocketAM4,4,4,3.6,4,4,14 990,0,https://www.citilink.ru/product/processor-amd-ryzen-3-3200g-am4-yd320gc5m4mfh-3-3ghz-vega-8-oem-1512680/
+150,INTEL Core i3 10105,LGA 1200,4,8,3.7,4.4,6,14 390,0,https://www.citilink.ru/product/processor-intel-core-i3-10105-soc-1200-3-7ghz-iuhdg630-oem-1510210/
+151,INTEL Pentium Gold G6605,LGA 1200,2,4,4.3,,4,9990,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6605-soc-1200-bx80701g6605-s-rh3t-4-1470842/
+152,INTEL Core i9 11900F,LGA 1200,8,16,2.5,5.2,16,38 290,0,https://www.citilink.ru/product/processor-intel-core-i9-11900f-lga-1200-oem-cm8070804488246s-rknk-1471346/
+153,INTEL Core i9 10850K,LGA 1200,10,20,3.6,5.2,20,35 990,0,https://www.citilink.ru/product/processor-intel-original-core-i9-10850k-soc-1200-cm8070104608302-s-rk5-1507649/
+154,INTEL Core i7 9700F,LGA 1151v2,8,8,3,4.7,12,23 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700f-soc-1151v2-3ghz-box-1490982/
+155,INTEL Core i5 10500,LGA 1200,6,12,3.1,4.5,12,19 690,0,https://www.citilink.ru/product/processor-intel-core-i5-10500-soc-1200-3-1ghz-iuhdg630-box-1504192/
+156,INTEL Pentium Gold G6600,LGA 1200,2,4,4.2,,4,9990,0,https://www.citilink.ru/product/processor-intel-original-pentium-gold-g6600-soc-1200-bx80701g6600-s-rh-1369034/
+157,INTEL Pentium Gold G6500,LGA 1200,2,4,4.1,,4,9990,0,https://www.citilink.ru/product/processor-intel-original-pentium-gold-g6500-soc-1200-bx80701g6500-s-rh-1369033/
+158,INTEL Core i3 10100F,LGA 1200,4,8,3.6,4.3,6,12 290,0,https://www.citilink.ru/product/processor-intel-core-i3-10100f-soc-1200-3-6ghz-oem-1505638/
+159,INTEL Core i3 10300,LGA 1200,4,8,3.7,4.4,8,14 590,0,https://www.citilink.ru/product/processor-intel-core-i3-10300-soc-1200-3-7ghz-iuhdg630-oem-1505641/
+160,INTEL Core i9 11900F,LGA 1200,8,16,2.5,5.2,16,39 990,0,https://www.citilink.ru/product/processor-intel-core-i9-11900f-lga-1200-box-bx8070811900f-s-rknk-1471344/
+161,INTEL Core i5 9500F,LGA 1151v2,6,6,3,4.4,9,15 590,0,https://www.citilink.ru/product/processor-intel-core-i5-9500f-lga-1151v2-box-bx80684i59500f-s-rg10-1195797/
+162,INTEL Pentium Gold G6400,LGA 1200,2,4,4,,4,9290,0,https://www.citilink.ru/product/processor-intel-pentium-gold-g6400-soc-1200-4ghz-iuhdg610-oem-1507792/
+163,INTEL Core i5 9600,LGA 1151v2,6,6,3.1,4.6,9,19 390,0,https://www.citilink.ru/product/processor-intel-core-i5-9600-lga-1151v2-oem-cm8068403358610s-rf4h-1140235/
+164,INTEL Core i5 10500,LGA 1200,6,12,3.1,4.5,12,19 690,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10500-soc-1200-bx8070110500-s-rh3a-3-1369042/
+165,INTEL Core i5 9500,LGA 1151v2,6,6,3,4.4,9,19 790,0,https://www.citilink.ru/product/processor-intel-core-i5-9500-lga-1151v2-box-bx80684i59500-s-rf4b-1141779/
+166,INTEL Core i5 9600,LGA 1151v2,6,6,3.1,4.6,9,19 390,0,https://www.citilink.ru/product/processor-intel-original-core-i5-9600-soc-1151v2-cm8068403358610s-rf4h-1504194/
+167,INTEL Core i5 10600,LGA 1200,6,12,3.3,4.8,12,20 390,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10600-soc-1200-bx8070110600-s-rh37-3-1369043/
+168,INTEL Core i5 8600,LGA 1151v2,6,6,3.1,4.3,9,16 590,0,https://www.citilink.ru/product/processor-intel-core-i5-8600-lga-1151v2-box-1066780/
+169,INTEL Celeron G5900,LGA 1200,2,2,3.4,,2,7290,0,https://www.citilink.ru/product/processor-intel-celeron-g5900-soc-1200-3-4ghz-iuhdg610-oem-1517878/
+170,INTEL Celeron G5905,LGA 1200,2,2,3.5,,4,7290,0,https://www.citilink.ru/product/processor-intel-celeron-g5905-soc-1200-3-5ghz-iuhdg610-oem-1517250/
+171,INTEL Celeron G5925,LGA 1200,2,2,3.6,,4,7990,0,https://www.citilink.ru/product/processor-intel-celeron-g5925-lga-1200-box-bx80701g5925-s-rk26-1424691/
+172,INTEL Core i9 9900K,LGA 1151v2,8,16,3.6,5,16,34 990,0,https://www.citilink.ru/product/processor-intel-core-i9-9900k-soc-1151v2-3-6ghz-iuhdg630-box-w-o-coole-1504188/
+173,INTEL Core i5 11600KF,LGA 1200,6,12,3.9,4.9,12,22 590,0,https://www.citilink.ru/product/processor-intel-core-i5-11600kf-lga-1200-oem-cm8070804491415s-rknv-1471337/
+174,INTEL Pentium Gold G6605,LGA 1200,2,4,4.3,,4,9590,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6605-soc-1200-cm8070104291511s-rh3t-1470843/
+175,INTEL Core i9 10900F,LGA 1200,10,20,2.8,5.2,20,32 990,0,https://www.citilink.ru/product/processor-intel-core-i9-10900f-lga-1200-oem-cm8070104282625s-rh90-1466651/
+176,INTEL Core i5 10600KF,LGA 1200,6,12,4.1,4.8,12,17 390,0,https://www.citilink.ru/product/processor-intel-core-i5-10600kf-lga-1200-oem-1420522/
+177,INTEL Core i7 10700K,LGA 1200,8,16,3.8,5.1,16,30 390,0,https://www.citilink.ru/product/processor-intel-core-i7-10700k-soc-1200-3-8ghz-iuhdg630-oem-1402428/
+178,INTEL Core i7 10700,LGA 1200,8,16,2.9,4.8,16,25 990,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700-soc-1200-cm8070104282327s-rh6y-1393779/
+179,INTEL Core i7 10700,LGA 1200,8,16,2.9,4.8,16,26 490,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700-soc-1200-bx8070110700-s-rh6y-2-1393778/
+180,INTEL Core i7 10700K,LGA 1200,8,16,3.8,5.1,16,30 390,0,https://www.citilink.ru/product/processor-intel-original-core-i7-10700k-soc-1200-cm8070104282436s-rh72-1388768/
+181,INTEL Core i5 10500,LGA 1200,6,12,3.1,4.5,12,18 990,0,https://www.citilink.ru/product/processor-intel-original-core-i5-10500-soc-1200-cm8070104290511s-rh3a-1363359/
+182,INTEL Pentium Gold G6500,LGA 1200,2,4,4.1,,4,9590,0,https://www.citilink.ru/product/processor-intel-original-pentium-g6500-soc-1200-cm8070104291610s-rh3u-1363346/
+183,INTEL Core i5 9600KF,LGA 1151v2,6,6,3.7,4.6,9,16 690,0,https://www.citilink.ru/product/processor-intel-core-i5-9600kf-lga-1151v2-box-bez-kulera-bx80684i59600-1203711/
+184,INTEL Core i7 9700KF,LGA 1151v2,8,8,3.6,4.9,12,23 990,0,https://www.citilink.ru/product/processor-intel-core-i7-9700kf-lga-1151v2-oem-cm8068403874220s-rg16-1193886/
+185,INTEL Core i3 9100,LGA 1151v2,4,4,3.6,4.2,6,16 290,0,https://www.citilink.ru/product/processor-intel-core-i3-9100-lga-1151v2-oem-cm8068403377319s-rczv-1139047/
+186,INTEL Core i3 8100,LGA 1151v2,4,4,3.6,,6,15 590,0,https://www.citilink.ru/product/processor-intel-core-i3-8100-lga-1151v2-box-1049674/
+187,INTEL Core i5 9400F,LGA 1151v2,6,6,2.9,4.1,9,14 990,0,https://www.citilink.ru/product/processor-intel-core-i5-9400f-lga-1151v2-oem-1209500/
+188,AMD Ryzen 3 2200G,SocketAM4,4,4,3.5,3.7,4,,0,https://www.citilink.ru/product/processor-amd-ryzen-3-2200g-socketam4-oem-yd2200c5m4mfb-1051625/
+189,AMD Ryzen 3 3200G,SocketAM4,4,4,3.6,4,4,,0,https://www.citilink.ru/product/processor-amd-ryzen-3-3200g-socketam4-oem-yd3200c5m4mfh-1151428/
+190,AMD Ryzen 5 2400G,SocketAM4,4,8,3.6,3.9,4,,0,https://www.citilink.ru/product/processor-amd-ryzen-5-2400g-socketam4-box-yd2400c5fbbox-1029385/

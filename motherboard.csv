@@ -1,0 +1,305 @@
+Id,Name,Socket,Chipset,Price,Recommended,Link
+1,ASROCK A320M-DVS R4.0,SocketAM4,AMD A320,3790,35,https://www.citilink.ru/product/materinskaya-plata-asrock-a320m-dvs-r4-0-socketam4-amd-a320-matx-ret-1120710/
+2,ASROCK B450M PRO4,SocketAM4,AMD B450,6140,50,https://www.citilink.ru/product/materinskaya-plata-asrock-b450m-pro4-socketam4-amd-b450-matx-ret-1080832/
+3,ASROCK B450M PRO4-F,SocketAM4,AMD B450,5590,50,https://www.citilink.ru/product/materinskaya-plata-asrock-b450m-pro4-f-socketam4-amd-b450-matx-ret-1138649/
+4,ASUS PRIME H310M-R R2.0,LGA 1151v2,Intel H310,4090,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310m-r-r2-0-lga-1151v2-intel-h310-matx-1107791/
+5,GIGABYTE B450M H,SocketAM4,AMD B450,4920,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450m-h-socketam4-amd-b450-matx-ret-1362027/
+6,ASROCK B450M-HDV R4.0,SocketAM4,AMD B450,4760,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b450m-hdv-r4-0-socketam4-amd-b450-matx-ret-1135186/
+7,ASROCK B450 PRO4,SocketAM4,AMD B450,6740,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b450-pro4-socketam4-amd-b450-atx-ret-1080829/
+8,ASUS PRIME A320M-K,SocketAM4,AMD A320,3990,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a320m-k-socketam4-amd-a320-matx-ret-472728/
+9,GIGABYTE B450 AORUS ELITE,SocketAM4,AMD B450,7590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450-aorus-elite-socketam4-amd-b450-atx-re-1087918/
+10,ASROCK B460M-HDV,LGA 1200,Intel B460,6790,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b460m-hdv-soc-1200-intel-b460-2xddr4-matx-ac-1391283/
+11,GIGABYTE B450M DS3H V2,SocketAM4,AMD B450,5590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450m-ds3h-v2-socketam4-amd-b450-matx-ret-1429279/
+12,ASROCK H410M-HVS,LGA 1200,Intel H410,5890,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h410m-hvs-soc-1200-intel-h410-2xddr4-matx-ac-1388024/
+13,GIGABYTE GA-A320M-H,SocketAM4,AMD A320,3890,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-ga-a320m-h-socketam4-amd-a320-matx-ret-1101032/
+14,GIGABYTE H310M S2,LGA 1151v2,Intel H310C,3990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-s2-2-0-lga-1151v2-intel-h310c-matx-r-1085074/
+15,ASROCK B460 Pro4,LGA 1200,Intel B460,8990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b460-pro4-soc-1200-intel-b460-2xddr4-atx-ac-1391286/
+16,ASROCK H310CM-DVS,LGA 1151v2,Intel H310C,3990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h310cm-dvs-lga-1151v2-intel-h310c-matx-ret-1080835/
+17,GIGABYTE B450M S2H V2,SocketAM4,AMD B450,5190,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450m-s2h-v2-socketam4-amd-b450-matx-ret-1444565/
+18,ASROCK H410M-HDV,LGA 1200,Intel H410,5990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h410m-hdv-soc-1200-intel-h410-2xddr4-atx-ac-1381537/
+19,GIGABYTE B450 GAMING X,SocketAM4,AMD B450,6740,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450-gaming-x-socketam4-amd-b450-atx-ret-1144485/
+20,GIGABYTE H310M S2H 2.0,LGA 1151v2,Intel H310C,4390,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-s2h-2-0-lga-1151v2-intel-h310c-matx-1135093/
+21,ASROCK B450 Gaming K4,SocketAM4,AMD B450,7290,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b450-gaming-k4-socketam4-amd-b450-atx-ret-1087869/
+22,ASUS PRIME B365M-A,LGA 1151v2,Intel B365,5950,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b365m-a-lga-1151v2-intel-b365-matx-ret-1136626/
+23,GIGABYTE GA-A320M-S2H,SocketAM4,AMD A320,4190,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-ga-a320m-s2h-socketam4-amd-a320-matx-ret-1029346/
+24,MSI X470 GAMING PLUS MAX,SocketAM4,AMD X470,8590,0,https://www.citilink.ru/product/materinskaya-plata-msi-x470-gaming-plus-max-socketam4-amd-x470-atx-ret-1181657/
+25,GIGABYTE H410M H,LGA 1200,Intel H410,6290,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h410m-h-lga-1200-intel-h410-matx-ret-1399206/
+26,ASUS PRIME B450M-K,SocketAM4,AMD B450,4890,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b450m-k-socketam4-amd-b450-matx-ret-1083563/
+27,ASUS PRIME B450M-A II,SocketAM4,AMD B450,5890,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b450m-a-ii-socketam4-amd-b450-matx-ret-1425682/
+28,ASUS TUF GAMING Z490-PLUS WI-FI,LGA 1200,Intel Z490,16 630,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-z490-plus-wi-fi-soc-1200-intel-z490-1375135/
+29,ASUS TUF B450M-PRO GAMING,SocketAM4,AMD B450,7940,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b450m-pro-gaming-socketam4-amd-b450-matx-r-1100960/
+30,ASUS PRIME B460M-K,LGA 1200,Intel B460,7590,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b460m-k-soc-1200-intel-b460-2xddr4-matx-1384230/
+31,ASROCK B460M Pro4,LGA 1200,Intel B460,7990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b460m-pro4-lga-1200-intel-b460-matx-ret-1415786/
+32,GIGABYTE B460M GAMING HD,LGA 1200,Intel B460,7590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b460m-gaming-hd-soc-1200-intel-b460-2xddr4-1403572/
+33,GIGABYTE B550M DS3H,SocketAM4,AMD B550,7590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550m-ds3h-soc-am4-amd-b550-4xddr4-matx-ac-1407213/
+34,ASROCK H310CM-HDV,LGA 1151v2,Intel H310C,3990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h310cm-hdv-lga-1151v2-intel-h310c-matx-ret-1144610/
+35,GIGABYTE B460M DS3H,LGA 1200,Intel B460,7990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b460m-ds3h-soc-1200-intel-b460-4xddr4-matx-1393317/
+36,ASUS PRIME X570-P,SocketAM4,AMD X570,14 390,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-x570-p-socketam4-amd-x570-atx-ret-1160506/
+37,ASUS PRIME B460-PLUS,LGA 1200,Intel B460,10 590,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b460-plus-soc-1200-intel-b460-4xddr4-atx-1384240/
+38,ASUS TUF GAMING B550-PLUS,SocketAM4,AMD B550,14 290,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b550-plus-soc-am4-amd-b550-4xddr4-a-1384331/
+39,ASUS PRIME B460M-A,LGA 1200,Intel B460,9090,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b460m-a-soc-1200-intel-b460-4xddr4-matx-1387889/
+40,ASUS PRIME B360M-K,LGA 1151v2,Intel B360,5250,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b360m-k-lga-1151v2-intel-b360-matx-ret-1059814/
+41,ASUS PRIME B450M-K II,SocketAM4,AMD B450,4990,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b450m-k-ii-socketam4-amd-b450-matx-ret-1423913/
+42,GIGABYTE H410M S2H,LGA 1200,Intel H410,6590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h410m-s2h-lga-1200-intel-h410-matx-ret-1399207/
+43,MSI B365M PRO-VH,LGA 1151v2,Intel B365,4790,0,https://www.citilink.ru/product/materinskaya-plata-msi-b365m-pro-vh-lga-1151v2-intel-b365-matx-ret-1181591/
+44,ASROCK B450 STEEL LEGEND,SocketAM4,AMD B450,7740,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b450-steel-legend-socketam4-amd-b450-atx-ret-1132307/
+45,ASROCK H470M-HVS,LGA 1200,Intel H470,5660,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h470m-hvs-lga-1200-intel-h470-matx-ret-1473892/
+46,MSI B450-A PRO MAX,SocketAM4,AMD B450,7290,0,https://www.citilink.ru/product/materinskaya-plata-msi-b450-a-pro-max-socketam4-amd-b450-atx-ret-1207988/
+47,ASUS PRIME B365M-K,LGA 1151v2,Intel B365,5490,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b365m-k-lga-1151v2-intel-b365-matx-ret-1140441/
+48,ASROCK H470M-HDV,LGA 1200,Intel H470,5690,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h470m-hdv-lga-1200-intel-h470-matx-ret-1473891/
+49,GIGABYTE B365M H,LGA 1151v2,Intel B365,4990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b365m-h-lga-1151v2-intel-b365-matx-ret-1165851/
+50,ASUS ROG STRIX B550-F GAMING,SocketAM4,AMD B550,16 180,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b550-f-gaming-socketam4-amd-b550-atx-1386510/
+51,ASUS PRIME B550-PLUS,SocketAM4,AMD B550,11 710,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b550-plus-soc-am4-amd-b550-4xddr4-atx-ac-1387920/
+52,ASUS PRIME H410M-K,LGA 1200,Intel H410,6590,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h410m-k-soc-1200-intel-h410-2xddr4-matx-1387916/
+53,ASROCK B365M-HDV,LGA 1151v2,Intel B365,4940,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b365m-hdv-lga-1151v2-intel-b365-matx-ret-1165861/
+54,ASUS PRIME Z490-P,LGA 1200,Intel Z490,14 890,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-z490-p-soc-1200-intel-z490-4xddr4-atx-ac-1375124/
+55,GIGABYTE GA-E6010N,E1 6010,спецификация памяти: 1333 МГц,3040,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-ga-e6010n-mini-itx-ret-1399200/
+56,GIGABYTE B450 AORUS ELITE V2,SocketAM4,AMD B450,7890,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450-aorus-elite-v2-socketam4-amd-b450-atx-1468627/
+57,ASROCK B450M STEEL LEGEND,SocketAM4,AMD B450,6930,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b450m-steel-legend-socketam4-amd-b450-matx-r-1123793/
+58,GIGABYTE Z390 UD,LGA 1151v2,Intel Z390,9310,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z390-ud-lga-1151v2-intel-z390-atx-ret-1090569/
+59,GIGABYTE H410M S2,LGA 1200,Intel H410,5990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h410m-s2-soc-1200-intel-h410-2xddr4-matx-a-1396917/
+60,GIGABYTE B550M S2H,SocketAM4,AMD B550,6900,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550m-s2h-soc-am4-amd-b550-2xddr4-matx-ac-1403106/
+61,ASROCK B550M PRO4,SocketAM4,AMD B550,8380,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b550m-pro4-socketam4-amd-b550-matx-ret-1399214/
+62,GIGABYTE B450 AORUS M,SocketAM4,AMD B450,6990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450-aorus-m-socketam4-amd-b450-matx-ret-1101030/
+63,GIGABYTE B550M AORUS ELITE,SocketAM4,AMD B550,8630,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550m-aorus-elite-soc-am4-amd-b550-4xddr4-1403105/
+64,ASUS TUF B450-PRO GAMING,SocketAM4,AMD B450,9180,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b450-pro-gaming-socketam4-amd-b450-atx-ret-1100953/
+65,GIGABYTE B450 AORUS PRO,SocketAM4,AMD B450,8690,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450-aorus-pro-socketam4-amd-b450-atx-ret-1080839/
+66,ASUS ROG STRIX B550-F GAMINGWI-FI,SocketAM4,AMD B550,17 170,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b550-f-gaming-wi-fi-soc-am4-amd-b550-1401198/
+67,GIGABYTE B365M DS3H,LGA 1151v2,Intel B365,5930,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b365m-ds3h-lga-1151v2-intel-b365-matx-ret-1146340/
+68,ASUS PRIME H410M-R-SI,LGA 1200,Intel H410,6490,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h410m-r-si-soc-1200-intel-h410-2xddr4-ma-1413106/
+69,ASROCK H110 PRO BTC+,LGA 1151,Intel H110,18 590,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h110-pro-btc-lga-1151-intel-h110-atx-ret-487758/
+70,ASUS ROG STRIX B460-H GAMING,LGA 1200,Intel B460,12 090,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b460-h-gaming-soc-1200-intel-b460-4x-1384303/
+71,ASROCK H410M-HDV/M.2,LGA 1200,Intel H410,6790,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h410m-hdv-m-2-lga-1200-intel-h410-matx-ret-1415792/
+72,ASUS PRIME H410M-A,LGA 1200,Intel H410,7590,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h410m-a-soc-1200-intel-h410-2xddr4-atx-a-1379727/
+73,MSI H410M-A PRO,LGA 1200,Intel H410,6290,0,https://www.citilink.ru/product/materinskaya-plata-msi-h410m-a-pro-soc-1200-intel-h410-2xddr4-matx-ac-1401006/
+74,ASUS ROG STRIX B450-F GAMING,SocketAM4,AMD B450,11 510,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b450-f-gaming-socketam4-amd-b450-atx-1083573/
+75,MSI MAG B365M MORTAR,LGA 1151v2,Intel B365,5090,0,https://www.citilink.ru/product/materinskaya-plata-msi-mag-b365m-mortar-lga-1151v2-intel-b365-matx-ret-1192148/
+76,GIGABYTE B550 AORUS ELITE V2,SocketAM4,AMD B550,12 800,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550-aorus-elite-v2-socketam4-amd-b550-atx-1444568/
+77,ASROCK H470M-HDV/M.2,LGA 1200,Intel H470,6600,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h470m-hdv-m-2-soc-1200-intel-h470-2xddr4-mat-1485307/
+78,ASUS ROG STRIX Z490-E GAMING,LGA 1200,Intel Z490,26 700,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z490-e-gaming-soc-1200-intel-z490-4x-1375129/
+79,ASUS ROG STRIX B550-E GAMING,SocketAM4,AMD B550,21 140,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b550-e-gaming-soc-am4-amd-b550-4xddr-1384336/
+80,GIGABYTE H370 HD3,LGA 1151v2,Intel H370,8480,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h370-hd3-lga-1151v2-intel-h370-atx-ret-1056994/
+81,ASUS TUF GAMING B550M-PLUS WI-FI,SocketAM4,AMD B550,13 690,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b550m-plus-wi-fi-soc-am4-amd-b550-4-1395245/
+82,GIGABYTE H310M H 1.1,LGA 1151v2,Intel H370,3990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-h-lga-1151v2-intel-h370-matx-ret-1471909/
+83,ASUS TUF B450-PLUS GAMING,SocketAM4,AMD B450,8140,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b450-plus-gaming-socketam4-amd-b450-atx-re-1083576/
+84,GIGABYTE B450M GAMING,SocketAM4,AMD B450,6190,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450m-gaming-socketam4-amd-b450-matx-ret-1102377/
+85,ASUS TUF GAMING B460M-PLUS,LGA 1200,Intel B460,10 290,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b460m-plus-soc-1200-intel-b460-4xdd-1395231/
+86,ASROCK X370M-HDV R4.0,SocketAM4,AMD X370,4760,0,https://www.citilink.ru/product/materinskaya-plata-asrock-x370m-hdv-r4-0-soc-am4-amd-x370-2xddr4-matx-1384519/
+87,ASROCK B365M PRO4,LGA 1151v2,Intel B365,6620,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b365m-pro4-lga-1151v2-intel-b365-matx-ret-1146350/
+88,ASUS PRIME B450-PLUS,SocketAM4,AMD B450,7490,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b450-plus-socketam4-amd-b450-atx-ret-1083557/
+89,ASROCK H470 PHANTOM GAMING 4,LGA 1200,Intel H470,8810,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h470-phantom-gaming-4-soc-1200-intel-h470-4x-1405713/
+90,ASUS ROG STRIX B360-H GAMING,LGA 1151v2,Intel B360,9770,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b360-h-gaming-lga-1151v2-intel-b360-1052628/
+91,ASUS PRIME B360-PLUS,LGA 1151v2,Intel B360,7570,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b360-plus-lga-1151v2-intel-b360-atx-ret-1052605/
+92,GIGABYTE B365M D3H,LGA 1151v2,Intel B365,6400,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b365m-d3h-lga-1151v2-intel-b365-matx-ret-1159157/
+93,GIGABYTE GA-J1800N-D2H,Celeron J1800,спецификация памяти: 1333 МГц,3760,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-ga-j1800n-d2h-mini-itx-ret-878953/
+94,ASUS PRIME H410M-E,LGA 1200,Intel H410,7190,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h410m-e-soc-1200-intel-h410-2xddr4-atx-a-1379728/
+95,ASUS TUF GAMING A520M-PLUS,SocketAM4,AMD A520,6840,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-a520m-plus-soc-am4-amd-a520-4xddr4-1405623/
+96,ASROCK A520M-HVS,SocketAM4,AMD A520,4760,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a520m-hvs-soc-am4-amd-a520-2xddr4-matx-ac-97-1407202/
+97,GIGABYTE Z390 GAMING X,LGA 1151v2,Intel Z390,10 990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z390-gaming-x-lga-1151v2-intel-z390-atx-re-1090570/
+98,GIGABYTE B460M AORUS PRO,LGA 1200,Intel B460,9590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b460m-aorus-pro-soc-1200-intel-b460-4xddr4-1396909/
+99,GIGABYTE B460M DS3H V2,LGA 1200,Intel H470,7990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b460m-ds3h-v2-lga-1200-intel-h470-matx-ret-1474378/
+100,ASUS ROG STRIX Z490-H GAMING,LGA 1200,Intel Z490,19 840,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z490-h-gaming-soc-1200-intel-z490-4x-1375133/
+101,ASUS PRIME H410M-D,LGA 1200,Intel H410,7390,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h410m-d-soc-1200-intel-h410-2xddr4-matx-1393260/
+102,GIGABYTE B550 GAMING X,SocketAM4,AMD B550,11 310,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550-gaming-x-socketam4-amd-b550-atx-ret-1399190/
+103,ASUS TUF B450M-PLUS GAMING,SocketAM4,AMD B450,7240,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b450m-plus-gaming-socketam4-amd-b450-matx-1077729/
+104,ASROCK B365M PRO4-F,LGA 1151v2,Intel B365,6010,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b365m-pro4-f-lga-1151v2-intel-b365-matx-ret-1207983/
+105,GIGABYTE A520 AORUS ELITE,SocketAM4,AMD A520,7440,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-a520-aorus-elite-socketam4-amd-b550-atx-re-1415701/
+106,MSI B450M BAZOOKA MAX WIFI,SocketAM4,AMD B450,7380,0,https://www.citilink.ru/product/materinskaya-plata-msi-b450m-bazooka-max-wifi-soc-am4-amd-b450-4xddr4-1407246/
+107,ASROCK B550M-HDV,SocketAM4,AMD B550,6350,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b550m-hdv-soc-am4-amd-b550-2xddr4-matx-ac-97-1395306/
+108,MSI H310M PRO-VDH PLUS,LGA 1151v2,Intel H310,4290,0,https://www.citilink.ru/product/materinskaya-plata-msi-h310m-pro-vdh-plus-lga-1151v2-intel-h310-matx-r-1100872/
+109,GIGABYTE H310M S2 1.1,LGA 1151v2,Intel H370,3990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-s2-lga-1151v2-intel-h370-matx-ret-1471912/
+110,ASROCK B560M PRO4,LGA 1200,Intel B560,9590,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b560m-pro4-soc-1200-intel-b560-4xddr4-matx-a-1485303/
+111,ASUS PRIME H310M-K R2.0,LGA 1151v2,Intel H310,4090,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310m-k-r2-0-lga-1151v2-intel-h310-matx-1106386/
+112,GIGABYTE H370M DS3H,LGA 1151v2,Intel H370,6960,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h370m-ds3h-lga-1151v2-intel-h370-matx-ret-1068026/
+113,GIGABYTE A520M S2H,SocketAM4,AMD A520,4990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-a520m-s2h-soc-am4-amd-a520-2xddr4-matx-ac-1405124/
+114,GIGABYTE B365M HD3,LGA 1151v2,Intel B365,5400,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b365m-hd3-lga-1151v2-intel-b365-matx-ret-1165859/
+115,ASUS ROG STRIX B460-F GAMING,LGA 1200,Intel B460,13 390,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b460-f-gaming-soc-1200-intel-b460-4x-1384233/
+116,ASUS PRIME Z490-A,LGA 1200,Intel Z490,17 490,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-z490-a-soc-1200-intel-z490-4xddr4-atx-ac-1375121/
+117,GIGABYTE B460M D3H,LGA 1200,Intel B460,8390,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b460m-d3h-soc-1200-intel-b460-4xddr4-matx-1393307/
+118,ASUS ROG STRIX X570-F GAMING,SocketAM4,AMD X570,25 110,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-x570-f-gaming-socketam4-amd-x570-atx-1173884/
+119,ASROCK H570 PHANTOM GAMING 4,LGA 1200,Intel H570,10 070,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h570-phantom-gaming-4-soc-1200-intel-h570-4x-1485310/
+120,ASROCK B550 PHANTOM GAMING 4,SocketAM4,AMD B550,9060,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b550-phantom-gaming-4-soc-am4-amd-b550-4xddr-1395308/
+121,GIGABYTE A520M H,SocketAM4,AMD A520,4890,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-a520m-h-soc-am4-amd-a520-2xddr4-matx-ac-97-1405122/
+122,ASROCK B365 PRO4,LGA 1151v2,Intel B365,7090,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b365-pro4-lga-1151v2-intel-b365-atx-ret-1146349/
+123,GIGABYTE H310M S2V 2.0,LGA 1151v2,Intel H310,4380,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-s2v-2-0-lga-1151v2-intel-h310-matx-r-1101675/
+124,GIGABYTE H410M S2H V2,LGA 1200,Intel H470,6590,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h410m-s2h-v2-lga-1200-intel-h470-matx-ret-1476257/
+125,MSI B550M PRO,SocketAM4,AMD B550,7200,0,https://www.citilink.ru/product/materinskaya-plata-msi-b550m-pro-socketam4-amd-b550-matx-ret-1455654/
+126,ASUS ROG MAXIMUS XII HERO WI-FI,LGA 1200,Intel Z490,35 700,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-maximus-xii-hero-wi-fi-soc-1200-intel-z490-1375127/
+127,ASUS PRIME A520M-K,SocketAM4,AMD A520,4790,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a520m-k-soc-am4-amd-a520-2xddr4-matx-ac-1410389/
+128,ASUS TUF GAMING X570-PLUS,SocketAM4,AMD X570,19 840,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-x570-plus-socketam4-amd-x570-atx-re-1163698/
+129,GIGABYTE A520M AORUS ELITE,SocketAM4,AMD A520,6760,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-a520m-aorus-elite-socketam4-amd-a520-matx-1440088/
+130,GIGABYTE X570 AORUS PRO,SocketAM4,AMD X570,20 840,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-x570-aorus-pro-socketam4-amd-x570-atx-ret-1160565/
+131,GIGABYTE B460 HD3,LGA 1200,Intel B460,9190,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b460-hd3-lga-1200-intel-b460-atx-ret-1399089/
+132,ASUS TUF GAMING X570-PLUS WI-FI,SocketAM4,AMD X570,20 640,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-x570-plus-wi-fi-socketam4-amd-x570-1160509/
+133,ASUS ROG STRIX B460-G GAMING,LGA 1200,Intel B460,11 990,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b460-g-gaming-soc-1200-intel-b460-4x-1387917/
+134,ASUS ROG STRIX B450-F GAMING II,SocketAM4,AMD B450,11 800,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b450-f-gaming-ii-socketam4-amd-b450-1468605/
+135,ASUS PRIME B460I-PLUS,LGA 1200,Intel B460,9490,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b460i-plus-soc-1200-intel-b460-2xddr4-mi-1408145/
+136,GIGABYTE A520M DS3H,SocketAM4,AMD A520,5790,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-a520m-ds3h-soc-am4-amd-b550-4xddr4-matx-ac-1410231/
+137,MSI H410M PRO-E,LGA 1200,Intel H410,6390,0,https://www.citilink.ru/product/materinskaya-plata-msi-h410m-pro-e-lga-1200-intel-h410-matx-ret-1477338/
+138,ASROCK H410M-HDV R2.0,LGA 1200,Intel H410,5990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h410m-hdv-r2-0-lga-1200-intel-h410-matx-ret-1472189/
+139,ASROCK B550 PRO4,SocketAM4,AMD B550,10 710,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b550-pro4-soc-am4-amd-b550-4xddr4-atx-ac-97-1395302/
+140,ASUS ROG STRIX B460-I GAMING,LGA 1200,Intel B460,13 490,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b460-i-gaming-soc-1200-intel-b460-2x-1395247/
+141,ASROCK B560 PRO4,LGA 1200,Intel B560,10 790,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b560-pro4-lga-1200-intel-b560-atx-ret-1478002/
+142,ASUS ROG STRIX Z590-E GAMING WIFI,LGA 1200,Intel Z590,30 520,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z590-e-gaming-wifi-lga-1200-intel-z5-1471251/
+143,ASUS PRIME B550M-A WI-FI,SocketAM4,AMD B550,10 460,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b550m-a-wi-fi-soc-am4-amd-b550-4xddr4-ma-1384328/
+144,ASROCK H310CM-HDV/M.2,LGA 1151v2,Intel H310C,4890,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h310cm-hdv-m-2-lga-1151v2-intel-h310c-matx-r-1115881/
+145,ASUS TUF GAMING B550M-PLUS,SocketAM4,AMD B550,13 080,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b550m-plus-soc-am4-amd-b550-4xddr4-1387931/
+146,ASROCK D1800M,Celeron J1800,спецификация памяти: 1333 МГц,4270,0,https://www.citilink.ru/product/materinskaya-plata-asrock-d1800m-matx-ret-917391/
+147,ASROCK B560 STEEL LEGEND,LGA 1200,Intel B560,12 590,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b560-steel-legend-soc-1200-intel-b560-4xddr4-1485301/
+148,ASUS PRIME A320M-R-SI,SocketAM4,AMD A320,4090,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a320m-r-si-socketam4-amd-a320-matx-ret-w-1156561/
+149,ASROCK B560M-HDV,LGA 1200,Intel B560,7420,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b560m-hdv-soc-1200-intel-b560-2xddr4-matx-ac-1495485/
+150,ASUS ROG STRIX Z590-F GAMING WIFI,LGA 1200,Intel Z590,27 820,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z590-f-gaming-wifi-lga-1200-intel-z5-1471253/
+151,ASUS PRIME B550M-K,SocketAM4,AMD B550,8130,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b550m-k-soc-am4-amd-b550-4xddr4-matx-ac-1384319/
+152,MSI A320M PRO-E,SocketAM4,AMD A320,3890,0,https://www.citilink.ru/product/materinskaya-plata-msi-a320m-pro-e-socketam4-amd-a320-matx-ret-1131354/
+153,ASROCK H410M-HVS R2.0,LGA 1200,Intel H410,5890,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h410m-hvs-r2-0-lga-1200-intel-h410-matx-ret-1474272/
+154,GIGABYTE Z490 VISION G,LGA 1200,Intel Z490,19 350,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-vision-g-soc-1200-intel-z490-4xddr4-a-1387881/
+155,ASUS TUF GAMING B450M-PRO II,SocketAM4,AMD B450,9070,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b450m-pro-ii-socketam4-amd-b450-mat-1427622/
+156,ASUS ROG STRIX B550-A GAMING,SocketAM4,AMD B550,15 580,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b550-a-gaming-socketam4-amd-b550-atx-1451184/
+157,ASUS PRIME H310-PLUS R2.0,LGA 1151v2,Intel H310,6840,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310-plus-r2-0-lga-1151v2-intel-h310-atx-1155497/
+158,MSI MPG B460I GAMING EDGE WIFI,LGA 1200,Intel B460,12 590,0,https://www.citilink.ru/product/materinskaya-plata-msi-mpg-b460i-gaming-edge-wifi-lga-1200-intel-b460-1431039/
+159,ASUS ROG MAXIMUS XIII HERO,LGA 1200,Intel Z590,40 260,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-maximus-xiii-hero-lga-1200-intel-z590-atx-1471231/
+160,ASROCK A320M PRO4-F,SocketAM4,AMD A320,5290,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a320m-pro4-f-socketam4-amd-a320-matx-ret-1477992/
+161,GIGABYTE B550I AORUS PRO AX,SocketAM4,AMD B550,15 090,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550i-aorus-pro-ax-soc-am4-amd-b550-2xddr4-1396922/
+162,ASUS TUF GAMING X570-PRO WI-FI,SocketAM4,AMD X570,23 200,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-x570-pro-wi-fi-socketam4-amd-x570-a-1468615/
+163,GIGABYTE Z490 AORUS PRO AX,LGA 1200,Intel Z490,25 200,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-aorus-pro-ax-soc-1200-intel-z490-4xdd-1384502/
+164,ASUS ROG STRIX B550-XE GAMING WIFI,SocketAM4,AMD B550,27 490,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b550-xe-gaming-wifi-socketam4-amd-b5-1453730/
+165,ASROCK B550 STEEL LEGEND,SocketAM4,AMD B550,14 880,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b550-steel-legend-socketam4-amd-b550-atx-ret-1415789/
+166,ASROCK J3355B-ITX,Celeron J3355,спецификация памяти: 1833 МГц,5160,0,https://www.citilink.ru/product/materinskaya-plata-asrock-j3355b-itx-mini-itx-ret-405695/
+167,ASUS TUF GAMING B560-PLUS WIFI,LGA 1200,Intel B560,14 580,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b560-plus-wifi-soc-1200-intel-b560-1495433/
+168,ASUS TUF GAMING Z590-PLUS WIFI,LGA 1200,Intel Z590,20 840,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-z590-plus-wifi-lga-1200-intel-z590-1471260/
+169,ASUS PRIME A320M-E,SocketAM4,AMD A320,4590,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a320m-e-socketam4-amd-a320-matx-ret-1087844/
+170,ASUS PRIME B560-PLUS,LGA 1200,Intel B560,12 000,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b560-plus-soc-1200-intel-b560-4xddr4-atx-1495435/
+171,ASROCK H510M-HDV/M.2,LGA 1200,Intel H510,7290,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h510m-hdv-m-2-soc-1200-intel-h510-2xddr4-mat-1490708/
+172,ASUS TUF GAMING B550-PLUS WI-FI,SocketAM4,AMD B550,15 380,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b550-plus-wi-fi-socketam4-amd-b550-1451087/
+173,ASUS ROG STRIX B550-I GAMING,SocketAM4,AMD B550,17 360,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b550-i-gaming-soc-am4-amd-b550-2xddr-1413100/
+174,ASUS PRIME B550M-A,SocketAM4,AMD B550,9410,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b550m-a-soc-am4-amd-b550-4xddr4-matx-ac-1384325/
+175,ASUS ROG MAXIMUS XII FORMULA,LGA 1200,Intel Z490,40 990,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-maximus-xii-formula-soc-1200-intel-z490-4x-1375126/
+176,GIGABYTE B365 M AORUS ELITE,LGA 1151v2,Intel B365,7490,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b365-m-aorus-elite-lga-1151v2-intel-b365-m-1148258/
+177,ASUS ROG STRIX Z490-G GAMINGWI-FI,LGA 1200,Intel Z490,20 850,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z490-g-gaming-wi-fi-lga-1200-intel-z-1427626/
+178,GIGABYTE Z390 M,LGA 1151v2,Intel Z390,8960,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z390-m-lga-1151v2-intel-z390-matx-ret-1148263/
+179,ASUS PRIME A520M-E,SocketAM4,AMD A520,5570,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a520m-e-soc-am4-amd-a520-2xddr4-matx-ac-1408140/
+180,ASROCK Q1900B-ITX,Celeron J1900,спецификация памяти: 1333 МГц,5450,0,https://www.citilink.ru/product/materinskaya-plata-asrock-q1900b-itx-mini-itx-ret-275363/
+181,ASUS PRIME Z590-P,LGA 1200,Intel Z590,18 290,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-z590-p-lga-1200-intel-z590-atx-ret-1471262/
+182,ASUS PRIME A320M-A,SocketAM4,AMD A320,6090,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a320m-a-socketam4-amd-a320-matx-ret-490212/
+183,ASUS ROG MAXIMUS XII APEX,LGA 1200,Intel Z490,33 340,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-maximus-xii-apex-soc-1200-intel-z490-2xddr-1384354/
+184,ASROCK Z590M PRO4,LGA 1200,Intel Z590,14 390,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590m-pro4-lga-1200-intel-z590-matx-ret-1478005/
+185,ASUS PRIME H310M-D R2.0,LGA 1151v2,Intel H310C,5910,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310m-d-r2-0-lga-1151v2-intel-h310c-matx-1146319/
+186,ASUS TUF GAMING B450-PLUS II,SocketAM4,AMD B450,10 050,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b450-plus-ii-socketam4-amd-b450-atx-1468600/
+187,ASROCK Z590 PRO4,LGA 1200,Intel Z590,14 450,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590-pro4-soc-1200-intel-z590-4xddr4-atx-ac-1495481/
+188,ASUS PRIME A320I-K,SocketAM4,AMD A320,7390,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a320i-k-socketam4-amd-a320-mini-itx-ret-1474956/
+189,ASUS PRIME H310M-C R2.0,LGA 1151v2,Intel H310C,6600,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310m-c-r2-0-lga-1151v2-intel-h310c-matx-1140439/
+190,ASROCK H570 STEEL LEGEND,LGA 1200,Intel H570,13 000,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h570-steel-legend-soc-1200-intel-h570-4xddr4-1490705/
+191,ASROCK A520M PRO4,SocketAM4,AMD A520,6890,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a520m-pro4-socketam4-amd-a520-matx-ret-1423069/
+192,ASROCK B365 PHANTOM GAMING 4,LGA 1151v2,Intel B365,9080,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b365-phantom-gaming-4-lga-1151v2-intel-b365-1447965/
+193,ASUS PRIME H370-A,LGA 1151v2,Intel H370,10 630,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h370-a-lga-1151v2-intel-h370-atx-ret-1052613/
+194,MSI B550M PRO-VDH,SocketAM4,AMD B550,9030,0,https://www.citilink.ru/product/materinskaya-plata-msi-b550m-pro-vdh-socketam4-amd-b550-matx-ret-1455653/
+195,ASROCK A520M-HDV,SocketAM4,AMD A520,4990,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a520m-hdv-socketam4-amd-a520-matx-ret-1415783/
+196,ASUS PRIME H370-PLUS,LGA 1151v2,Intel H370,9790,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h370-plus-lga-1151v2-intel-h370-atx-ret-1052621/
+197,ASUS PRIME H570-PLUS,LGA 1200,Intel H570,13 390,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h570-plus-soc-1200-intel-h570-4xddr4-atx-1490720/
+198,MSI A320M-A PRO MAX,SocketAM4,AMD A320,3960,0,https://www.citilink.ru/product/materinskaya-plata-msi-a320m-a-pro-max-socketam4-amd-a320-matx-ret-1185669/
+199,ASROCK H510M-HVS,LGA 1200,Intel H510,6490,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h510m-hvs-soc-1200-intel-h510-2xddr4-matx-ac-1490704/
+200,ASROCK X570 EXTREME4,SocketAM4,AMD X570,20 480,0,https://www.citilink.ru/product/materinskaya-plata-asrock-x570-extreme4-socketam4-amd-x570-atx-ret-1159164/
+201,ASUS ROG STRIX Z490-G GAMING,LGA 1200,Intel Z490,19 240,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z490-g-gaming-soc-1200-intel-z490-4x-1393271/
+202,GIGABYTE Z590 GAMING X,LGA 1200,Intel Z590,18 080,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z590-gaming-x-soc-1200-intel-z590-4xddr4-a-1490292/
+203,ASROCK B560M STEEL LEGEND,LGA 1200,Intel B560,10 740,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b560m-steel-legend-soc-1200-intel-b560-4xddr-1490702/
+204,ASROCK Z590 PHANTOM GAMING 4,LGA 1200,Intel Z590,13 160,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590-phantom-gaming-4-soc-1200-intel-z590-4x-1490706/
+205,ASUS TUF GAMING B560M-PLUS,LGA 1200,Intel B560,13 100,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b560m-plus-soc-1200-intel-b560-4xdd-1490718/
+206,ASROCK B460M STEEL LEGEND,LGA 1200,Intel B460,9290,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b460m-steel-legend-soc-1200-intel-b460-4xddr-1480464/
+207,ASROCK H570M PRO4,LGA 1200,Intel H570,10 290,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h570m-pro4-soc-1200-intel-h570-4xddr4-matx-a-1485311/
+208,ASUS TUF B360M-E GAMING,LGA 1151v2,Intel B360,7540,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b360m-e-gaming-lga-1151v2-intel-b360-matx-1064017/
+209,ASUS TUF GAMING H470-PRO WI-FI,LGA 1200,Intel H470,13 790,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-h470-pro-wi-fi-soc-1200-intel-h470-1480841/
+210,ASUS ROG STRIX Z590-A GAMING WIFI,LGA 1200,Intel Z590,28 310,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z590-a-gaming-wifi-lga-1200-intel-z5-1471254/
+211,ASUS PRIME H310M-A R2.0,LGA 1151v2,Intel H310,5470,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310m-a-r2-0-lga-1151v2-intel-h310-matx-1100970/
+212,ASROCK B450 GAMING-ITX/AC,SocketAM4,AMD B450,8780,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b450-gaming-itx-ac-socketam4-amd-b450-mini-i-1446956/
+213,GIGABYTE Z590 UD AC,LGA 1200,Intel Z590,16 870,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z590-ud-ac-soc-1200-intel-z590-4xddr4-atx-1498885/
+214,ASUS ROG STRIX B560-A GAMING WIFI,LGA 1200,Intel B560,16 670,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b560-a-gaming-wifi-soc-1200-intel-b5-1495231/
+215,ASUS ROG STRIX B560-G GAMING WIFI,LGA 1200,Intel B560,15 610,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b560-g-gaming-wifi-soc-1200-intel-b5-1490716/
+216,ASUS ROG STRIX Z490-I GAMING,LGA 1200,Intel Z490,25 590,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z490-i-gaming-soc-1200-intel-z490-2x-1393279/
+217,GIGABYTE H310M S2H 1.2,LGA 1151v2,Intel H370,4250,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-s2h-1-2-soc-1151v2-intel-h370-2xddr4-1486775/
+218,ASROCK Z590 PG VELOCITA,LGA 1200,Intel Z590,26 120,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590-pg-velocita-soc-1200-intel-z590-4xddr4-1485312/
+219,ASROCK B460 STEEL LEGEND,LGA 1200,Intel B460,10 490,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b460-steel-legend-lga-1200-intel-b460-atx-re-1478004/
+220,ASUS PRO B460M-C/CSM,LGA 1200,Intel B460,9990,0,https://www.citilink.ru/product/materinskaya-plata-asus-pro-b460m-c-csm-lga-1200-intel-b460-matx-ret-1462009/
+221,ASROCK J3355M,Celeron J3355,спецификация памяти: 1866 МГц,5140,0,https://www.citilink.ru/product/materinskaya-plata-asrock-j3355m-matx-ret-405694/
+222,ASUS PRO Q470M-C/CSM,LGA 1200,Intel Q470,15 010,0,https://www.citilink.ru/product/materinskaya-plata-asus-pro-q470m-c-csm-soc-1200-intel-q470-4xddr4-mat-1413105/
+223,GIGABYTE B560M AORUS PRO AX,LGA 1200,Intel B560,14 410,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b560m-aorus-pro-ax-soc-1200-intel-b560-4xd-1490285/
+224,ASUS PRIME B560M-K,LGA 1200,Intel B560,9490,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b560m-k-soc-1200-intel-b560-2xddr4-matx-1494279/
+225,ASUS PRIME Z590M-PLUS,LGA 1200,Intel Z590,17 590,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-z590m-plus-lga-1200-intel-z590-matx-ret-1471263/
+226,ASUS PRIME B360M-C,LGA 1151v2,Intel B360,7340,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b360m-c-lga-1151v2-intel-b360-matx-ret-1077715/
+227,ASROCK Q1900M,Celeron J1900,спецификация памяти: 1333 МГц,5650,0,https://www.citilink.ru/product/materinskaya-plata-asrock-q1900m-matx-ret-1118873/
+228,ASUS PRIME H570M-PLUS,LGA 1200,Intel H570,12 200,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h570m-plus-soc-1200-intel-h570-4xddr4-ma-1490717/
+229,ASUS PRIME H510M-A,LGA 1200,Intel H510,8530,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h510m-a-soc-1200-intel-h510-2xddr4-matx-1495429/
+230,ASUS PRIME H310M-E R2.0,LGA 1151v2,Intel H310C,5410,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310m-e-r2-0-lga-1151v2-intel-h310c-matx-1132792/
+231,ASUS TUF B365M-PLUS GAMING,LGA 1151v2,Intel B365,8280,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b365m-plus-gaming-lga-1151v2-intel-b365-ma-1155536/
+232,GIGABYTE B560M AORUS PRO,LGA 1200,Intel B560,13 000,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b560m-aorus-pro-soc-1200-intel-b560-4xddr4-1490282/
+233,ASROCK Z590 STEEL LEGEND,LGA 1200,Intel Z590,16 870,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590-steel-legend-lga-1200-intel-z590-atx-re-1477996/
+234,GIGABYTE B550 AORUS PRO AX,SocketAM4,AMD B550,16 690,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550-aorus-pro-ax-socketam4-amd-b550-atx-r-1450217/
+235,ASUS ROG STRIX B560-F GAMING WIFI,LGA 1200,Intel B560,18 160,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b560-f-gaming-wifi-soc-1200-intel-b5-1490719/
+236,MSI MAG B550M BAZOOKA,SocketAM4,AMD B550,11 320,0,https://www.citilink.ru/product/materinskaya-plata-msi-mag-b550m-bazooka-soc-am4-amd-b550-4xddr4-matx-1412788/
+237,GIGABYTE Z590 VISION G,LGA 1200,Intel Z590,24 990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z590-vision-g-soc-1200-intel-z590-4xddr4-a-1498887/
+238,GIGABYTE Z490 AORUS ULTRA G2,LGA 1200,Intel Z490,29 980,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-aorus-ultra-gu-lga-1200-intel-z490-at-1468631/
+239,ASROCK J4005M,Celeron J4005,спецификация памяти: 2400 МГц,5900,0,https://www.citilink.ru/product/materinskaya-plata-asrock-j4005m-matx-ret-1065627/
+240,MSI H410I PRO WIFI,LGA 1200,Intel H410,9990,0,https://www.citilink.ru/product/materinskaya-plata-msi-h410i-pro-wifi-lga-1200-intel-h410-mini-itx-ret-1477366/
+241,MSI B550M-A PRO,SocketAM4,AMD B550,7820,0,https://www.citilink.ru/product/materinskaya-plata-msi-b550m-a-pro-socketam4-amd-b550-matx-ret-1474377/
+242,ASUS PRIME H510M-E,LGA 1200,Intel H510,8260,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h510m-e-soc-1200-intel-h510-2xddr4-matx-1495440/
+243,ASUS PRIME Q370M-C,LGA 1151v2,Intel Q370,10 880,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-q370m-c-lga-1151v2-intel-q370-matx-ret-1083567/
+244,ASUS PRIME A320M-C R2.0,SocketAM4,AMD A320,5790,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-a320m-c-r2-0-socketam4-amd-a320-matx-ret-1083553/
+245,ASROCK Z590M PHANTOM GAMING 4,LGA 1200,Intel Z590,11 940,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590m-phantom-gaming-4-soc-1200-intel-z590-4-1495483/
+246,ASUS PRIME H510M-D,LGA 1200,Intel H510,8260,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h510m-d-soc-1200-intel-h510-2xddr4-matx-1495235/
+247,MSI A520M PRO,SocketAM4,AMD A520,5870,0,https://www.citilink.ru/product/materinskaya-plata-msi-a520m-pro-soc-am4-amd-a520-2xddr4-matx-ac-97-8c-1484864/
+248,ASUS TUF GAMING B450M-PLUS II,SocketAM4,AMD B450,8580,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-gaming-b450m-plus-ii-soc-am4-amd-b450-4xdd-1498831/
+249,GIGABYTE Z590 AORUS PRO AX,LGA 1200,Intel Z590,32 390,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z590-aorus-pro-ax-soc-1200-intel-z590-4xdd-1490291/
+250,ASROCK A320M-HDV R4.0,SocketAM4,AMD A320,3890,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a320m-hdv-r4-0-socketam4-amd-a320-matx-ret-1146345/
+251,GIGABYTE Z490 AORUS ELITE AC,LGA 1200,Intel Z490,18 850,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-aorus-elite-ac-soc-1200-intel-z490-4x-1384498/
+252,GIGABYTE Z490 UD,LGA 1200,Intel Z490,12 900,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-ud-soc-1200-intel-z490-4xddr4-atx-ac-1372426/
+253,GIGABYTE Z490 GAMING X,LGA 1200,Intel Z490,14 540,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-gaming-x-soc-1200-intel-z490-4xddr4-a-1372417/
+254,ASROCK X370 PRO4,SocketAM4,AMD X370,7090,0,https://www.citilink.ru/product/materinskaya-plata-asrock-x370-pro4-soc-am4-amd-x370-4xddr4-atx-ac-97-1384515/
+255,GIGABYTE X570 AORUS ELITE,SocketAM4,AMD X570,16 770,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-x570-aorus-elite-socketam4-amd-x570-atx-re-1160572/
+256,MSI MPG Z390 GAMING PLUS,LGA 1151v2,Intel Z390,10 710,0,https://www.citilink.ru/product/materinskaya-plata-msi-mpg-z390-gaming-plus-lga-1151v2-intel-z390-atx-1090483/
+257,Asrock A320M-HDV R4.0 Soc-AM4 AMD A320 2xDDR4 mATX AC`97 8ch7.1 восстановленный,SocketAM4,AMD A320,2530,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a320m-hdv-r4-0-soc-am4-amd-a320-2xddr4-matx-M00204911/
+258,Gigabyte B365M D3H Soc-1151v2 Intel B365 4xDDR4 mATX AC`97 8ch7 восстановленный,LGA 1151v2,Intel B365,4190,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b365m-d3h-soc-1151v2-intel-b365-4xddr4-mat-M00204906/
+259,GIGABYTE B560M DS3H,LGA 1200,Intel B560,9350,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b560m-ds3h-soc-1200-intel-b560-4xddr4-matx-1515207/
+260,GIGABYTE H510M S2H,LGA 1200,Intel H510,6380,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h510m-s2h-soc-1200-intel-h510-2xddr4-matx-1513638/
+261,ASUS ROG STRIX B560-I GAMING WIFI,LGA 1200,Intel B560,15 570,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b560-i-gaming-wifi-soc-1200-intel-b5-1512405/
+262,GIGABYTE Z590I AORUS ULTRA,LGA 1200,Intel Z590,24 690,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z590i-aorus-ultra-soc-1200-intel-z590-2xdd-1502809/
+263,ASROCK H410M-ITX/AC,LGA 1200,Intel H410,7750,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h410m-itx-ac-soc-1200-intel-h410-2xddr4-mini-1499046/
+264,ASUS PRO B560M-C/CSM,LGA 1200,Intel B560,11 610,0,https://www.citilink.ru/product/materinskaya-plata-asus-pro-b560m-c-csm-soc-1200-intel-b560-4xddr4-mat-1498828/
+265,ASUS PRO H510M-C/CSM,LGA 1200,Intel H510,9100,0,https://www.citilink.ru/product/materinskaya-plata-asus-pro-h510m-c-csm-soc-1200-intel-h510-2xddr4-mat-1498824/
+266,GIGABYTE Z590 AORUS ULTRA,LGA 1200,Intel Z590,32 250,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z590-aorus-ultra-soc-1200-intel-z590-4xddr-1487361/
+267,ASROCK H470 STEEL LEGEND,LGA 1200,Intel H470,11 860,0,https://www.citilink.ru/product/materinskaya-plata-asrock-h470-steel-legend-soc-1200-intel-h470-4xddr4-1487340/
+268,ASROCK J5040-ITX,Pentium J5040,спецификация памяти: 2400 МГц,10 120,0,https://www.citilink.ru/product/materinskaya-plata-asrock-j5040-itx-2xddr4-mini-itx-ac-97-8ch-7-1-gbla-1485375/
+269,ASROCK A520M-ITX/AC,SocketAM4,AMD A520,9030,0,https://www.citilink.ru/product/materinskaya-plata-asrock-a520m-itx-ac-soc-am4-amd-a520-2xddr4-mini-it-1474263/
+270,ASUS PRIME Z590-A,LGA 1200,Intel Z590,25 990,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-z590-a-lga-1200-intel-z590-atx-ret-1471259/
+271,ASUS PRIME B365M-C/CSM,LGA 1151v2,Intel B365,7900,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b365m-c-csm-lga-1151v2-intel-b365-matx-r-1468609/
+272,MSI MPG Z490M GAMING EDGE WIFI,LGA 1200,Intel Z490,16 640,0,https://www.citilink.ru/product/materinskaya-plata-msi-mpg-z490m-gaming-edge-wifi-lga-1200-intel-z490-1431046/;
+273,GIGABYTE Z490 VISION D,LGA 1200,Intel Z490,26 720,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-vision-d-soc-1200-intel-z490-4xddr4-a-1395220/
+274,GIGABYTE B550 AORUS PRO,SocketAM4,AMD B550,15 280,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b550-aorus-pro-soc-am4-amd-b550-4xddr4-atx-1395219/
+275,ASUS ROG STRIX Z490-A GAMING,LGA 1200,Intel Z490,21 530,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-z490-a-gaming-lga-1200-intel-z490-at-1384341/
+276,ASROCK Z490 EXTREME4,LGA 1200,Intel Z490,16 470,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z490-extreme4-soc-1200-intel-z490-4xddr4-atx-1376625/
+277,GIGABYTE Z490M GAMING X,LGA 1200,Intel Z490,13 990,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490m-gaming-x-soc-1200-intel-z490-4xddr4-1372424/
+278,GIGABYTE Z490 AORUS ULTRA,LGA 1200,Intel Z490,29 790,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z490-aorus-ultra-soc-1200-intel-z490-4xddr-1372407/
+279,ASROCK B365M-ITX/AC,LGA 1151v2,Intel B365,7240,0,https://www.citilink.ru/product/materinskaya-plata-asrock-b365m-itx-ac-lga-1151v2-intel-b365-mini-itx-1212010/
+280,MSI B365M PRO-VDH,LGA 1151v2,Intel B365,6150,0,https://www.citilink.ru/product/materinskaya-plata-msi-b365m-pro-vdh-lga-1151v2-intel-b365-matx-ret-1182953/
+281,GIGABYTE Z390 D,LGA 1151v2,Intel Z390,8780,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-z390-d-lga-1151v2-intel-z390-atx-ret-1169412/
+282,GIGABYTE H310M D3H,LGA 1151v2,Intel H310,6200,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-d3h-lga-1151v2-intel-h310-matx-ret-1152202/
+283,GIGABYTE H310M A 2.0,LGA 1151v2,Intel H310,4900,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-a-2-0-lga-1151v2-intel-h310-matx-ret-1150526/
+284,ASUS PRIME B365-PLUS,LGA 1151v2,Intel B365,8350,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b365-plus-lga-1151v2-intel-b365-atx-ret-1146317/
+285,GIGABYTE J4005N D2P,Celeron J4005,спецификация памяти: 2400 МГц,6100,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-j4005n-d2p-mini-itx-ret-1144489/
+286,ASUS PRIME H310I-PLUS R2.0,LGA 1151v2,Intel H310C,7140,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h310i-plus-r2-0-lga-1151v2-intel-h310c-m-1127923/
+287,GIGABYTE Q370M D3H GSM PLUS,LGA 1151v2,Intel Q370,11 710,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-q370m-d3h-gsm-plus-lga-1151v2-intel-q370-m-1104813/
+288,ASUS ROG STRIX B360-F GAMING,LGA 1151v2,Intel B360,11 450,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b360-f-gaming-lga-1151v2-intel-b360-1062088/
+289,ASUS PRIME H370M-PLUS,LGA 1151v2,Intel H370,9450,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-h370m-plus-lga-1151v2-intel-h370-matx-re-1062085/
+290,ASUS TUF B360-PRO GAMING,LGA 1151v2,Intel B360,9770,0,https://www.citilink.ru/product/materinskaya-plata-asus-tuf-b360-pro-gaming-lga-1151v2-intel-b360-atx-1052631/
+291,ASUS PRIME B360M-A,LGA 1151v2,Intel B360,5990,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b360m-a-lga-1151v2-intel-b360-matx-ret-1052597/
+292,Gigabyte GA-J1800N-D2H Celeron mini-ITX AC`97 8ch7.1 GbLAN+VGA восстановленный,Celeron J1800,спецификация памяти: 1333 МГц,2450,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-ga-j1800n-d2h-celeron-mini-itx-ac-97-8ch-7-M00194374/
+293,GIGABYTE B450M S2H,SocketAM4,AMD B450,,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-b450m-s2h-socketam4-amd-b450-matx-ret-1120699/
+294,GIGABYTE H310M H,LGA 1151v2,Intel H310,,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310m-h-2-0-lga-1151v2-intel-h310-matx-ret-1107888/
+295,MSI B450 TOMAHAWK MAX II,SocketAM4,AMD B450,,0,https://www.citilink.ru/product/materinskaya-plata-msi-b450-tomahawk-max-ii-socketam4-amd-b450-atx-ret-1449842/
+296,MSI MAG B550M MORTAR,SocketAM4,AMD B550,,0,https://www.citilink.ru/product/materinskaya-plata-msi-mag-b550m-mortar-socketam4-amd-b550-matx-ret-1405496/
+297,ASUS ROG STRIX B360-G GAMING,LGA 1151v2,Intel B360,,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-strix-b360-g-gaming-lga-1151v2-intel-b360-1052626/
+298,MSI Z390-A PRO,LGA 1151v2,Intel Z390,,0,https://www.citilink.ru/product/materinskaya-plata-msi-z390-a-pro-lga-1151v2-intel-z390-atx-ret-1090485/
+299,Asrock J4125B-ITX 2xDDR4 mini-ITX AC`97 8ch7.1 GbLAN+VGA+HDMI плохая упаковка,Celeron J4125,спецификация памяти: 2400 МГц,,0,https://www.citilink.ru/product/materinskaya-plata-asrock-j4125b-itx-2xddr4-mini-itx-ac-97-8ch-7-1-gbl-1515131/
+300,Asrock Z590 TAICHI Soc-1200 Intel Z590 4xDDR4 ATX AC`97 8ch7.1 плохая упаковка,LGA 1200,Intel Z590,,0,https://www.citilink.ru/product/materinskaya-plata-asrock-z590-taichi-soc-1200-intel-z590-4xddr4-atx-a-1522897/
+301,Asus ROG MAXIMUS XII HERO WI-FI Soc-1200 Intel Z490 4xDDR4 ATX восстановленный,LGA 1200,Intel Z490,,0,https://www.citilink.ru/product/materinskaya-plata-asus-rog-maximus-xii-hero-wi-fi-soc-1200-intel-z490-M00204777/
+302,ASUS PRIME B560M-A,LGA 1200,Intel B560,,0,https://www.citilink.ru/product/materinskaya-plata-asus-prime-b560m-a-soc-1200-intel-b560-4xddr4-matx-1494271/
+303,GIGABYTE H310N 2.0,LGA 1151v2,Intel H310C,,0,https://www.citilink.ru/product/materinskaya-plata-gigabyte-h310n-2-0-lga-1151v2-intel-h310c-mini-itx-1138640/
+304,MSI MPG Z490M GAMING EDGE WIFI Soc-1200 Intel Z490 4xDDR4 mATX A плохая упаковка,LGA 1200,Intel Z490,,0,https://www.citilink.ru/product/materinskaya-plata-msi-mpg-z490m-gaming-edge-wifi-soc-1200-intel-z490-1495014/;
