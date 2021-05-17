@@ -27,7 +27,7 @@ def getMotherboard(n=10, socket=None, rec=None):
             return motherboard[motherboard["Recommended"]==int(rec)].values
         return motherboard.head(n).values
     if rec:
-        return motherboard[(motherboard["Recommended"]==int(rec)) and (motherboard["Socket"]==socket)].head(n).values
+        return motherboard[(motherboard["Recommended"]==int(rec)) & (motherboard["Socket"]==socket)].head(n).values
     return motherboard[motherboard["Socket"]==socket].head(n).values
 
 def getMotherboardById(i):

@@ -28,39 +28,39 @@ def getFullData(userid):
     mes = 'Here is your parts:'
     if user['cpu'] != None:
         part = getCPUbyId(user['cpu'])
-        price += int(part[8])
+        price += int(str(part[8]).replace(" ", ""))
         mes += f'\nCPU: {part[1]}, {part[10]}'
     if user['motherboard'] != None:
         part = getMotherboardById(user['motherboard'])
-        price += int(part[4])
+        price += int(str(part[4]).replace(" ", ""))
         mes += f'\nMotherboard: {part[1]}, {part[6]}'
     if user['cooling'] != None:
         part = getCoolingById(user['cooling'])
-        price += int(part[4])
+        price += int(str(part[4]).replace(" ", ""))
         mes += f'\nCooling: {part[1]}, {part[6]}'
     if user['ram'] != None:
         part = getRAMById(user['ram'])
-        price += int(part[3])
+        price += int(str(part[3]).replace(" ", ""))
         mes += f'\nRAM: {part[1]}, {part[5]}'
     if user['videocard'] != None:
         part = getVideocardById(user['videocard'])
-        price += int(part[4])
+        price += int(str(part[4]).replace(" ", ""))
         mes += f'\nVideocard: {part[1]}, {part[6]}'
     if user['power_supply'] != None:
         part = getPowersupplyById(user['power_supply'])
-        price += int(part[3])
+        price += int(str(part[3]).replace(" ", ""))
         mes += f'\nPower supply: {part[1]}, {part[5]}'
     if user['ssd'] != None:
         part = getSSDById(user['ssd'])
-        price += int(part[4])
+        price += int(str(part[4]).replace(" ", ""))
         mes += f'\nSSD: {part[1]}, {part[6]}'
     if user['hdd'] != None:
         part = getHDDById(user['hdd'])
-        price += int(part[6])
+        price += int(str(part[6]).replace(" ", ""))
         mes += f'\nHDD: {part[1]}, {part[8]}'
     if user['case'] != None:
         part = getCaseById(user['case'])
-        price += int(part[4])
+        price += int(str(part[4]).replace(" ", ""))
         mes += f'\nCase: {part[1]}, {part[6]}'
     mes += f'\nFull price: {price} rub'
     return mes
@@ -101,7 +101,7 @@ def processStep(userid, i):
             motherboards = getMotherboard(socket=None, rec=rec)
         else:
             cpu = getCPUbyId(i)
-            motherboards = getMotherboard(socket=cpu[2])
+            motherboards = getMotherboard(socket=cpu[2], rec=rec)
         for m in motherboards:
             users[userid]['messages'].append(bot.send_message(userid, motherboardData(m), reply_markup=gen_markup(m[0])))
     elif users[userid]['step'] == 2:
