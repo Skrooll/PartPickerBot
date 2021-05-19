@@ -21,6 +21,13 @@ steps = {
     10:'finish',
 }
 
+
+def checkMessage(mes):
+    res = True
+    for com in ['/start', '/skip', '/new', '/recommended', '/cancel', '/help', '/back', 'Очень бюджетная', 'Бюджетная', 'Средняя', 'Наилучшая']:
+        res = res and not (com in mes.text)
+    return res
+
 # формирование итого, можешь менять то что после \n
 def getFullData(userid):
     user = users[userid]
@@ -223,7 +230,7 @@ def process_rec_step(message):
         'messages': [],
     }
     markup = ReplyKeyboardMarkup()
-    markup.add('/more', '/skip', '/cancel')
+    markup.add('/more', '/skip', '/back', '/cancel')
     bot.send_message(userid, 'Ok, let\'s start', reply_markup=markup)
     processStep(userid, None)
 
@@ -248,12 +255,37 @@ def new_handler(message):
         'messages': [],
     }
     markup = ReplyKeyboardMarkup()
-    markup.add('/more', '/skip', '/cancel')
+    markup.add('/more', '/skip', '/back', '/cancel')
     bot.send_message(userid, 'Ok, let\'s start', reply_markup=markup)
     processStep(userid, None)
         
 # обработчки команды /cancel
 @bot.message_handler(commands=['cancel'])
+def cancel_handler(message):
+    userid = message.chat.id
+    deleteMessages(userid)
+    users[userid] = {
+        'id': userid,    
+        'recommended': None,
+        'step': 0,
+        'start': None,
+        'cpu': None,
+        'motherboard': None,
+        'cooling': None,
+        'ram': None,
+        'videocard': None,
+        'power_supply': None,
+        'ssd': None,
+        'hdd': None,
+        'case': None,
+        'messages': [],
+    }
+    markup = ReplyKeyboardMarkup()
+    markup.add('/new', '/recommended', '/help')
+    bot.send_message(userid, 'Отменили', reply_markup=markup)
+    
+# обработчки команды /back
+@bot.message_handler(commands=['back'])
 def cancel_handler(message):
     userid = message.chat.id
     user = users[userid]
@@ -274,5 +306,9 @@ def skip_handler(message):
     else:
         processStep(userid, None)
     
+@bot.message_handler(func=checkMessage)
+def wrong_handler(message):
+    userid = message.chat.id
+    bot.send_message(userid, 'Неверная команда, используйте кнопки')
 
 bot.polling(none_stop=True)
